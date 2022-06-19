@@ -1,0 +1,4189 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: .gitignore
+SHA1-Digest: A+xWaEpidpUwQM7Tiw9sptLzTWg=
+
+Name: LICENSE.txt
+SHA1-Digest: 1ohqvC5LBelum0FU5mn1UpYo+AU=
+
+Name: README.md
+SHA1-Digest: TrqKAV0hsrpOWO2d8hIP2ebn74E=
+
+Name: app/build.gradle
+SHA1-Digest: b/PqeB+zk2yDWuvrOh9Ixrbs0vU=
+
+Name: app/gradlew
+SHA1-Digest: ZAnWJW32svniFCGDtMZAiCOhD2o=
+
+Name: app/gradlew.bat
+SHA1-Digest: h1HXgxymzRytSOFHWnlZa1S0iZQ=
+
+Name: app/proguard-rules.txt
+SHA1-Digest: EHjvelXRLftyHR8u4ExvcdYS+4E=
+
+Name: app/src/main/AndroidManifest.xml
+SHA1-Digest: 3WgPryybUI9tYMbVa1FDZSlgdOo=
+
+Name: app/src/main/assets/AndLua.lua
+SHA1-Digest: K207i6+xkCEsOxtkzfuea0S0UEo=
+
+Name: app/src/main/assets/AndLuaX.lua
+SHA1-Digest: JaB9ZuAwhsNRdu7NLjZyoZQbOR4=
+
+Name: app/src/main/assets/Community.aly
+SHA1-Digest: AvIv34dTr3jEkKdmMyKYsgJCSDc=
+
+Name: app/src/main/assets/Dialog.lua
+SHA1-Digest: SVJvNHj18HHvuMslPXT+msNnWiA=
+
+Name: app/src/main/assets/My.aly
+SHA1-Digest: /+H+Ucjz6vdv8B9rJ3loCAxsFjA=
+
+Name: app/src/main/assets/Verify/set1.XY
+SHA1-Digest: NWoZK3kTsExUV00Ywo1G5jlUKKs=
+
+Name: app/src/main/assets/Verify/set10.XY
+SHA1-Digest: Oy8Hds/6U82FUeQn0Ni0kTmkAFU=
+
+Name: app/src/main/assets/Verify/set11.XY
+SHA1-Digest: LZXVUx60/uUCzwfKA5di33mwuBE=
+
+Name: app/src/main/assets/Verify/set12.XY
+SHA1-Digest: imF66LSgiZA8kg2TWlSJ0zbIFgA=
+
+Name: app/src/main/assets/Verify/set13.XY
+SHA1-Digest: X/5TO4MPCKAyY0ipFgr6/IraRNs=
+
+Name: app/src/main/assets/Verify/set2.XY
+SHA1-Digest: TJ6Zj1ShWJW+jH8PPbSf1+UrOdo=
+
+Name: app/src/main/assets/Verify/set3.XY
+SHA1-Digest: GUOhS/I5RXbVBhYMPeMKkCOScR4=
+
+Name: app/src/main/assets/Verify/set4.XY
+SHA1-Digest: nzDjQeI9yZRpIpmzEQ8q8O8/2ig=
+
+Name: app/src/main/assets/Verify/set5.XY
+SHA1-Digest: Ev/Vb5/qubjrpifslSFVnKzsQCY=
+
+Name: app/src/main/assets/Verify/set6.XY
+SHA1-Digest: iRIYmr0BTbTHzIhwwxiPIUtTdPI=
+
+Name: app/src/main/assets/Verify/set7.XY
+SHA1-Digest: aP6VOc4iDMB2N6IIDowHif0i6eA=
+
+Name: app/src/main/assets/Verify/set8.XY
+SHA1-Digest: KlmM7Y/N8UaTGiF+Qk3G8OiSE48=
+
+Name: app/src/main/assets/Verify/set9.XY
+SHA1-Digest: JF3C2achKM2FpQW8uyC+pYEwF24=
+
+Name: app/src/main/assets/Verify/setb.XY
+SHA1-Digest: /nqT2FrWNYX9oNUsZYRw1S6zjbg=
+
+Name: app/src/main/assets/Verify/setbb.XY
+SHA1-Digest: j0vxcVZlr7lmCjAVWLiYQ/xqTuY=
+
+Name: app/src/main/assets/android.lua
+SHA1-Digest: GuT5D6SGi2dWVijMrk0z2Mhl4SI=
+
+Name: app/src/main/assets/bin.lua
+SHA1-Digest: ICl1D3qM27IwjzuPAxmowwy2rgM=
+
+Name: app/src/main/assets/bmob.lua
+SHA1-Digest: d1C8JIqzj+LzBhptIzR7epUQE2s=
+
+Name: app/src/main/assets/color.lua
+SHA1-Digest: l+QSV7JwEXrtTafvvKKvQ6ScRhk=
+
+Name: app/src/main/assets/color1.lua
+SHA1-Digest: MeTUL5V+mK9K8PurgeO7izj7fAc=
+
+Name: app/src/main/assets/dj.lua
+SHA1-Digest: bGluY9j5n8hzdTvVvNg5NTOKaac=
+
+Name: app/src/main/assets/file.lua
+SHA1-Digest: LZ1tADN/SwnfODiUpjs/6uHn/so=
+
+Name: app/src/main/assets/file.png
+SHA1-Digest: iDcgHCkvEICjcnDKsVJLQxuvqDQ=
+
+Name: app/src/main/assets/folder.png
+SHA1-Digest: F5YxUu65v/DhVVa9P8HI8Xtyx0E=
+
+Name: app/src/main/assets/font/a.ttf
+SHA1-Digest: S97/Qse+QysbIQBFm815MJU4+Y8=
+
+Name: app/src/main/assets/font/b.ttf
+SHA1-Digest: BdjymkJ+eZ+E1tpDpIyVW+lsxBo=
+
+Name: app/src/main/assets/font/update
+SHA1-Digest: X/5TO4MPCKAyY0ipFgr6/IraRNs=
+
+Name: app/src/main/assets/icon.png
+SHA1-Digest: c/9l+Lgq3plqPQ2G5G34sd40oFs=
+
+Name: app/src/main/assets/image/a0.png
+SHA1-Digest: ZOlcUMNl3zJZXiBYct2ff/wiIrU=
+
+Name: app/src/main/assets/image/a1.png
+SHA1-Digest: C1QV6ujfNnTRiPzfFIQos9Q6iiQ=
+
+Name: app/src/main/assets/image/a10.png
+SHA1-Digest: qs97JsxeaFSnx4Vxs+IxjV3BAAA=
+
+Name: app/src/main/assets/image/a11.png
+SHA1-Digest: GP6c44wmymA/lO6DZDnVzfC2bhs=
+
+Name: app/src/main/assets/image/a2.png
+SHA1-Digest: ZZZ/1B7J8n8Y+4C2oRZQbfO7MVA=
+
+Name: app/src/main/assets/image/a3.png
+SHA1-Digest: GarmGcKuf0yC3F3r2P5DdmmVLx4=
+
+Name: app/src/main/assets/image/a4.png
+SHA1-Digest: gOQXbauGiu6aVPjHkmAg18jjAzI=
+
+Name: app/src/main/assets/image/a5.png
+SHA1-Digest: JEs94uWWmcEwlHECetq32oTQiOU=
+
+Name: app/src/main/assets/image/a6.png
+SHA1-Digest: cHnLkxndUrgePmXJEW0nDmgFfeU=
+
+Name: app/src/main/assets/image/a7.png
+SHA1-Digest: q6cEoBrY5PUn950vyipB8dkC5bc=
+
+Name: app/src/main/assets/image/a8.png
+SHA1-Digest: uxw2/cUFGdlXfaqME1EPEbMN38s=
+
+Name: app/src/main/assets/image/a9.png
+SHA1-Digest: 2J8gt/U7bWmnk9rvOIU2n1jKsh4=
+
+Name: app/src/main/assets/img/a1.png
+SHA1-Digest: Rnli9301h3XFg1AHAKhx5X1k7DI=
+
+Name: app/src/main/assets/img/a2.png
+SHA1-Digest: qf0s/oID1L9LF9wr1+9ZamXgccg=
+
+Name: app/src/main/assets/img/a3.png
+SHA1-Digest: RlWZYBmCt7hbx+2qwososoRiG58=
+
+Name: app/src/main/assets/img/a4.png
+SHA1-Digest: ZX6TeNA2q84Q4Fm8yTWfK1A2hd8=
+
+Name: app/src/main/assets/img/a5.png
+SHA1-Digest: b61ie/QgxkngX8XdjM03KceX/BU=
+
+Name: app/src/main/assets/img/b1.png
+SHA1-Digest: t1DmVNDWXRdnq1Wc374GVi5jQNs=
+
+Name: app/src/main/assets/img/b2.png
+SHA1-Digest: cL675DsT6/frP7wmOaKNRmJRROY=
+
+Name: app/src/main/assets/img/c1.png
+SHA1-Digest: xYLyo1V6kZ2/KLUtVIEVx9sA0WE=
+
+Name: app/src/main/assets/img/c2.png
+SHA1-Digest: Lx22CHoy84UxYak7mI6dtNiJRw4=
+
+Name: app/src/main/assets/img/c3.png
+SHA1-Digest: wobBYBfJOfKCQK4WAKlYYLJHw+0=
+
+Name: app/src/main/assets/img/c4.png
+SHA1-Digest: vmzNBCgOQxwjAxgJ+sNENx/YRlA=
+
+Name: app/src/main/assets/img/check_off.png
+SHA1-Digest: h4DFPS+lyi8hZuoDGeKXIR/yAmw=
+
+Name: app/src/main/assets/img/check_on.png
+SHA1-Digest: JFRwl+Ew7FyuGqpqlGT7+Wj6ie4=
+
+Name: app/src/main/assets/img/d1.png
+SHA1-Digest: RUmYZioG5borW8ToYB2g3sowgDk=
+
+Name: app/src/main/assets/img/data
+SHA1-Digest: gBvhMiKV6EVQ+DrdverH1fc9hLE=
+
+Name: app/src/main/assets/img/e1.png
+SHA1-Digest: u5ti8QSYCZp1m+ktsRbOkWrH11A=
+
+Name: app/src/main/assets/img/e2.png
+SHA1-Digest: egbpi/dQuFYQstuCqzC+CopHqfE=
+
+Name: app/src/main/assets/img/f1.png
+SHA1-Digest: GtA5U5aQmcHkVrvpYwQGS7Xo5e4=
+
+Name: app/src/main/assets/img/f10.png
+SHA1-Digest: mSnrk+3bgqtwl03Kn/54JGPMtbM=
+
+Name: app/src/main/assets/img/f11.png
+SHA1-Digest: e158PUFUYdOJithDYVCkoNHIMOc=
+
+Name: app/src/main/assets/img/f12.png
+SHA1-Digest: NeMXRC+td61Jci2s1vNP1JEmE3s=
+
+Name: app/src/main/assets/img/f2.png
+SHA1-Digest: P0bBdzkf8xYG1q0atrHzZAmWtWk=
+
+Name: app/src/main/assets/img/f3.png
+SHA1-Digest: y7Vb9taDKsSHpFOeIbgfTcPNWqw=
+
+Name: app/src/main/assets/img/f4.png
+SHA1-Digest: R+PlJNKlGtqkNfuzl9VnxMV8kpA=
+
+Name: app/src/main/assets/img/f5.png
+SHA1-Digest: nI3JGfz+OsnegjzrkozoANljg+U=
+
+Name: app/src/main/assets/img/f6.png
+SHA1-Digest: t8y0Ob4GfNXLnmG7D2+pK88E9sk=
+
+Name: app/src/main/assets/img/f7.png
+SHA1-Digest: /e8tqn9jc3u2yQIQh1UZlzFEyFU=
+
+Name: app/src/main/assets/img/f8.png
+SHA1-Digest: upxcTp5JDe3o0LkawPw+CkGiEwA=
+
+Name: app/src/main/assets/img/f9.png
+SHA1-Digest: 8f2IWddL7YFK9HRKzRzT3rzu/xU=
+
+Name: app/src/main/assets/imgs/A1.png
+SHA1-Digest: j5aTFalaryCJi3GzJS2xxnylmiQ=
+
+Name: app/src/main/assets/imgs/A2.png
+SHA1-Digest: oexYPoT8rjU60Jl5VSh+KiqiT4I=
+
+Name: app/src/main/assets/imgs/A3.png
+SHA1-Digest: xP3gqqpql+W90VfunMTyjdPrRvQ=
+
+Name: app/src/main/assets/imgs/A4.png
+SHA1-Digest: glV6G2BHNx+hpx0WWQJ79eptTeA=
+
+Name: app/src/main/assets/imgs/Add.png
+SHA1-Digest: P28EdygFqrVo1vpGsW7W6LwUIsU=
+
+Name: app/src/main/assets/imgs/AndLuaXY1.png
+SHA1-Digest: nRynXs/9dWDHE8JoWCmNe84pK+0=
+
+Name: app/src/main/assets/imgs/AndLuaXY2.png
+SHA1-Digest: 28WHXShqHO7bsjqG6Gb2KoCmR9M=
+
+Name: app/src/main/assets/imgs/AndLuaXY3.png
+SHA1-Digest: Ai46mCh5slGEMd8ktbOjvlheF4Q=
+
+Name: app/src/main/assets/imgs/AndLuaXY4.png
+SHA1-Digest: JaB5qRY7N0yi8IqhiwFOF/MJro4=
+
+Name: app/src/main/assets/imgs/Community.png
+SHA1-Digest: l7mvHZhkCJlQwhnvpNhs9jGxuwI=
+
+Name: app/src/main/assets/imgs/Donate.png
+SHA1-Digest: 2CbZJHqAOWXMjnBNhnTKeaKqxkk=
+
+Name: app/src/main/assets/imgs/Item.png
+SHA1-Digest: IIj8d0Q+ib4lwatMA4QNufrPmRE=
+
+Name: app/src/main/assets/imgs/Logout.png
+SHA1-Digest: qSJ8dcYnmwWKzXPGZj7E/qYsb30=
+
+Name: app/src/main/assets/imgs/My.png
+SHA1-Digest: Gt5yjuqPLjaKE6fgLPZ7ZBScs5E=
+
+Name: app/src/main/assets/imgs/Other.png
+SHA1-Digest: oem1iF3uBeXgRN0jfseLMTxKtb8=
+
+Name: app/src/main/assets/imgs/Search.png
+SHA1-Digest: pEWhWnfHxMEXQCH6VyCmwtRk3cc=
+
+Name: app/src/main/assets/imgs/Send.png
+SHA1-Digest: AuRs91dd2zjhXSQUiDrJXOKStQ8=
+
+Name: app/src/main/assets/imgs/Set.png
+SHA1-Digest: As+nY2UTGvOYaGqBWMAGnL3e6AM=
+
+Name: app/src/main/assets/imgs/Source Code.png
+SHA1-Digest: x40Ge7lYNXk6zxS4pFhGvC7fLSA=
+
+Name: app/src/main/assets/imgs/Teach.png
+SHA1-Digest: j7OLZGumd5A/oZG5dk9Z7VIps90=
+
+Name: app/src/main/assets/imgs/User.png
+SHA1-Digest: x6u0mu2O7mPRbsZhlqHOgJxW7kc=
+
+Name: app/src/main/assets/imgs/clear.png
+SHA1-Digest: UVyYt0Kyts4uTZ/c15MAf2/8eoM=
+
+Name: app/src/main/assets/imgs/find.png
+SHA1-Digest: BRDOqpfvUBXO6VFt/T9hTJv9hOQ=
+
+Name: app/src/main/assets/imgs/qq.png
+SHA1-Digest: 845lc1dpFZUAx7ynJ6Ac2Fwf4/4=
+
+Name: app/src/main/assets/imgs/wx.png
+SHA1-Digest: WrPdevWw41nd8EUJIczFIfEamp8=
+
+Name: app/src/main/assets/imgs/zfb.png
+SHA1-Digest: 7sMx9mCf0CAZ4tfkln4PPyB+HEE=
+
+Name: app/src/main/assets/init.lua
+SHA1-Digest: xyjis5Ipd4TFG7eYm1XVE7oc0WI=
+
+Name: app/src/main/assets/javaapi/android.lua
+SHA1-Digest: BF2+asow+vuaU+PjRpVRRuCsurA=
+
+Name: app/src/main/assets/javaapi/clayout.aly
+SHA1-Digest: xgP/2UBayktzYH6hMgXTXPQ5wIc=
+
+Name: app/src/main/assets/javaapi/fiximport.lua
+SHA1-Digest: 03xtPGGbM7PjyMNBd2MUs0wIykw=
+
+Name: app/src/main/assets/javaapi/init.lua
+SHA1-Digest: yl5fWqbKnWHQtrcALXqMmY8W1N4=
+
+Name: app/src/main/assets/javaapi/layout.aly
+SHA1-Digest: fpoX5Qy7qa+Smj92V/gvugLDEEk=
+
+Name: app/src/main/assets/javaapi/main.lua
+SHA1-Digest: pbEJAT3hjWgoYDyiGvmpdhMj2b8=
+
+Name: app/src/main/assets/javaapi/mlayout.aly
+SHA1-Digest: RzRCNlnUu3w402WAM6+6r/2at3U=
+
+Name: app/src/main/assets/keys/keystore.ks
+SHA1-Digest: y9cosQiS+kjK+glyzEAInVfLeaA=
+
+Name: app/src/main/assets/keys/platform.pk8
+SHA1-Digest: koDnISu+PJbABb/0lQSOuXTXMWI=
+
+Name: app/src/main/assets/keys/testkey.pk8
+SHA1-Digest: kt4FLLgE3qdfmBWmbX0/b5Ec22M=
+
+Name: app/src/main/assets/keys/testkey.sbt
+SHA1-Digest: dAVFaPm/JcI+WUmNNFjk2Y+7S18=
+
+Name: app/src/main/assets/keys/testkey.x509.pem
+SHA1-Digest: c0FdXKnDpago0vp9QROAP953db8=
+
+Name: app/src/main/assets/layout.aly
+SHA1-Digest: Ve68pkI/VfHcU5ynyc4/RLhkrkE=
+
+Name: app/src/main/assets/layouthelper/.using
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: app/src/main/assets/layouthelper/init.lua
+SHA1-Digest: Aw7SQe9lzdMEJ3eB7INeX8MBjJw=
+
+Name: app/src/main/assets/layouthelper/layout.lua
+SHA1-Digest: OEz0zCAVMf/6uvaLiz7Ot6JMedg=
+
+Name: app/src/main/assets/layouthelper/loadlayout2.lua
+SHA1-Digest: /Sp/nB8WJ8Oisl4m7hhdWSIIfvk=
+
+Name: app/src/main/assets/layouthelper/loadlayout3.lua
+SHA1-Digest: 2fToJnddCKocwWa5CJzMP2R/XP4=
+
+Name: app/src/main/assets/layouthelper/main.lua
+SHA1-Digest: jnM/cZIcMXwtg5s3aV0ADGUzNUA=
+
+Name: app/src/main/assets/layouthelper/xml2table.lua
+SHA1-Digest: W41U0vJEzV4DrtRgDTXmNGiH/5c=
+
+Name: app/src/main/assets/libs/4sx.dex
+SHA1-Digest: 1Fu9uZcdmOVh6XKWvhOEUY6RQe4=
+
+Name: app/src/main/assets/libs/RippleView.dex
+SHA1-Digest: FTGIozfgqfPFLT89NdmS1SwlnZE=
+
+Name: app/src/main/assets/libs/android-support-v4.dex
+SHA1-Digest: w/ZYH5U4PCMh4EgaE4+/rxIIJA0=
+
+Name: app/src/main/assets/libs/classes.dex
+SHA1-Digest: Y6HxjaFlJH0b/7xXb3so/D/5DBM=
+
+Name: app/src/main/assets/libs/doucmentFile.dex
+SHA1-Digest: 7CDNd6D5qHci3RY7u0Z+sdxV5T0=
+
+Name: app/src/main/assets/libs/mao.odex
+SHA1-Digest: tuXNPOKldbljKFxWW0nrGAU82Mg=
+
+Name: app/src/main/assets/libs/mao.vdex
+SHA1-Digest: Lgp/8NUhhXTyOaWvB9RX1D5GRdA=
+
+Name: app/src/main/assets/libs/oat/arm/android-support-v4.odex
+SHA1-Digest: xm4rYq/3XKred1d/nJcli4zOJQY=
+
+Name: app/src/main/assets/libs/oat/arm/android-support-v4.vdex
+SHA1-Digest: bOU787vSZXQls6Yo8d4Y90+7Z+0=
+
+Name: app/src/main/assets/libs/oat/arm/classes.odex
+SHA1-Digest: 9IyhCb1qO/LYG3pW7GUW0/56WAM=
+
+Name: app/src/main/assets/libs/oat/arm/classes.vdex
+SHA1-Digest: eZJYnBTRHKBAHviSmfWWHIBkrfA=
+
+Name: app/src/main/assets/libs/oat/arm/okh.odex
+SHA1-Digest: Fqg0t63UAut9gbuJOccXOsZ7DgE=
+
+Name: app/src/main/assets/libs/oat/arm/okh.vdex
+SHA1-Digest: WpWUPXPKasxuEqXh9Akgwio0PbA=
+
+Name: app/src/main/assets/libs/oat/arm64/android-support-v4.odex
+SHA1-Digest: goNsy1MczPUoQRST/DmqSHkU4+Y=
+
+Name: app/src/main/assets/libs/oat/arm64/android-support-v4.vdex
+SHA1-Digest: svavs1uAO0mlMMna+zEnSJAVsIU=
+
+Name: app/src/main/assets/libs/oat/arm64/classes.odex
+SHA1-Digest: /TgopNj77t5ZBXRyvz8ME8lK1ik=
+
+Name: app/src/main/assets/libs/oat/arm64/classes.vdex
+SHA1-Digest: cOOEObpBuyaaROPLs0UllyLqjbE=
+
+Name: app/src/main/assets/libs/oat/arm64/okh.odex
+SHA1-Digest: FMniRKBnLma+n/2EPxC00qhry/Y=
+
+Name: app/src/main/assets/libs/oat/arm64/okh.vdex
+SHA1-Digest: aoHOUuhsGc+NL3RXwdel2a31p50=
+
+Name: app/src/main/assets/libs/oat1/arm/classes.odex
+SHA1-Digest: 90KhB6q5yVMUj+ZJ6xNRy0guu/o=
+
+Name: app/src/main/assets/libs/oat1/arm/classes.vdex
+SHA1-Digest: v5iooJGu3PSdJYPrt+nn1ye0V9M=
+
+Name: app/src/main/assets/libs/okh.dex
+SHA1-Digest: E6dvATzR//xQPlr7KJJA59Rlu3I=
+
+Name: app/src/main/assets/libs/sign.odex
+SHA1-Digest: Hr+AmX2LjDmE0XQY25UJzmrMNlM=
+
+Name: app/src/main/assets/libs/sign.vdex
+SHA1-Digest: Tx2lfgOsiXmYm8zGvAQdN56XTIw=
+
+Name: app/src/main/assets/ljt.lua
+SHA1-Digest: VcIxWlXygZcfpqzkbLWZEaRazNI=
+
+Name: app/src/main/assets/loadlayout2.lua
+SHA1-Digest: /Sp/nB8WJ8Oisl4m7hhdWSIIfvk=
+
+Name: app/src/main/assets/loadlayout3.lua
+SHA1-Digest: 2fToJnddCKocwWa5CJzMP2R/XP4=
+
+Name: app/src/main/assets/main.lua
+SHA1-Digest: JBmu9Ghegn9Zr4Re689hFN630IU=
+
+Name: app/src/main/assets/main10.lua
+SHA1-Digest: iFlXB2JGkUc6pnJdfzPMlLgnOuc=
+
+Name: app/src/main/assets/main11.lua
+SHA1-Digest: UHrVgBm6zXPGc8iSlL/CpfKMnF4=
+
+Name: app/src/main/assets/main12.lua
+SHA1-Digest: sjaYyiUFO6HjqYAYhZBeRPPwXts=
+
+Name: app/src/main/assets/main13.lua
+SHA1-Digest: +hwdgZE7OyYDFWnM685jBNx781o=
+
+Name: app/src/main/assets/main14.lua
+SHA1-Digest: oSkQiwqDoIS0dCFXk7R28bF+sfg=
+
+Name: app/src/main/assets/main2.lua
+SHA1-Digest: VxLXHREFthrsvbMftR8o/AjHlFQ=
+
+Name: app/src/main/assets/main3.lua
+SHA1-Digest: GftKZ5TvblhO0UGTmBtL/8ruLQ4=
+
+Name: app/src/main/assets/main4.lua
+SHA1-Digest: /qZ3TskJB3dvCfd4KU9exrMoFQA=
+
+Name: app/src/main/assets/main5.lua
+SHA1-Digest: TLqvDCIYCtGwYK+vOkmEXPrbwCk=
+
+Name: app/src/main/assets/main6.lua
+SHA1-Digest: RKOGLAdTA4GSSj/smWlrxmo+4oY=
+
+Name: app/src/main/assets/main7.lua
+SHA1-Digest: Ji63UFNWt5/itzeqV5D0PYK+sGE=
+
+Name: app/src/main/assets/main9.lua
+SHA1-Digest: D5sKb3axFwN3XaMgxJU4HZSypGg=
+
+Name: app/src/main/assets/main91.lua
+SHA1-Digest: 92R7gBpwEhapfNsfiMj1qkJDQKo=
+
+Name: app/src/main/assets/mao.dex
+SHA1-Digest: LlFwFE+nrQEBKMTkhlWR7dXuVaU=
+
+Name: app/src/main/assets/oat/arm/mao.odex
+SHA1-Digest: T4v0q/BNhD4MynzEU/2af9KVXnc=
+
+Name: app/src/main/assets/oat/arm/mao.vdex
+SHA1-Digest: Lgp/8NUhhXTyOaWvB9RX1D5GRdA=
+
+Name: app/src/main/assets/oat/arm/sign.odex
+SHA1-Digest: yyu40W7ySUUbjgTE8XA4CnHZS1E=
+
+Name: app/src/main/assets/oat/arm/sign.vdex
+SHA1-Digest: Tx2lfgOsiXmYm8zGvAQdN56XTIw=
+
+Name: app/src/main/assets/oat/arm64/mao.odex
+SHA1-Digest: vajZ3mgFcdPmvhL582OQpyaStVo=
+
+Name: app/src/main/assets/oat/arm64/mao.vdex
+SHA1-Digest: Lgp/8NUhhXTyOaWvB9RX1D5GRdA=
+
+Name: app/src/main/assets/oat/arm64/sign.odex
+SHA1-Digest: +8zfzWx6yo0wx38cz/OiKWBsE/0=
+
+Name: app/src/main/assets/oat/arm64/sign.vdex
+SHA1-Digest: Tx2lfgOsiXmYm8zGvAQdN56XTIw=
+
+Name: app/src/main/assets/other.lua
+SHA1-Digest: u3A50O/6Q1IcnUkIoMHhqy5cXA8=
+
+Name: app/src/main/assets/picture/1642739853191.png
+SHA1-Digest: 4K8GbKzaR8En3FJ64Bba6tG2R6k=
+
+Name: app/src/main/assets/picture/a1.png
+SHA1-Digest: bnq6R7Z8046AXLfCB6eVX088hOY=
+
+Name: app/src/main/assets/picture/a2.png
+SHA1-Digest: sq3QMmEqaifJDHPv/lBvaFYF5I4=
+
+Name: app/src/main/assets/picture/a3.png
+SHA1-Digest: I4/wPvomFaj0WZdlI7n6AXlr6TE=
+
+Name: app/src/main/assets/picture/a4.png
+SHA1-Digest: on+5/OQ32uhMrzOJk8TVlUMbfmg=
+
+Name: app/src/main/assets/picture/a5.png
+SHA1-Digest: J6NIRFhISlqQjc2xMIKFnNmuwoc=
+
+Name: app/src/main/assets/picture/b1.png
+SHA1-Digest: mSnrk+3bgqtwl03Kn/54JGPMtbM=
+
+Name: app/src/main/assets/picture/b2.png
+SHA1-Digest: NeMXRC+td61Jci2s1vNP1JEmE3s=
+
+Name: app/src/main/assets/picture/b3.png
+SHA1-Digest: cP5ZdEM8a0qEuq19DqhkwptO0WM=
+
+Name: app/src/main/assets/picture/b4.png
+SHA1-Digest: MIeramA8qe/dBcjD/ewvJGL4v7g=
+
+Name: app/src/main/assets/picture/privatemsg_chat_my_bg.9.png
+SHA1-Digest: GB2ImgcdRJfwdk6TPqmLnPlPwBg=
+
+Name: app/src/main/assets/picture/privatemsg_chat_other_bg.9.png
+SHA1-Digest: x1nlytzEmyF6tdqnnLXzptP56u8=
+
+Name: app/src/main/assets/plugin/init.lua
+SHA1-Digest: CkaN7q8Cf86otOzAKp1OTnWdImQ=
+
+Name: app/src/main/assets/plugin/item.aly
+SHA1-Digest: oOZPRjqZmt5k+WL/QMfOqImLYlo=
+
+Name: app/src/main/assets/plugin/layout.aly
+SHA1-Digest: Jv4qBPQ0HdJgsZwY3ioz2hfF1nA=
+
+Name: app/src/main/assets/plugin/main.lua
+SHA1-Digest: T49LCJ6LxF7m93hPrw0jmTb4eBY=
+
+Name: app/src/main/assets/project.aly
+SHA1-Digest: gui7Z0h5RW8aXXZVn96nSI5lLdI=
+
+Name: app/src/main/assets/project/xy1.zip
+SHA1-Digest: JyFfM4a4FtHv7qwd4ySqwjuC9+s=
+
+Name: app/src/main/assets/project/xy2.zip
+SHA1-Digest: E8LoHYVcb7h2Bt6CgsspTfFN75A=
+
+Name: app/src/main/assets/project/xy3.zip
+SHA1-Digest: Xflz/BkMw0aRlLx+1a6EDwAjM1M=
+
+Name: app/src/main/assets/project/xy4.zip
+SHA1-Digest: f6/Xfjk/pZwBwyPca64B/8sAE1o=
+
+Name: app/src/main/assets/project/xy5.zip
+SHA1-Digest: Y/VF+68fZ5outbSvyivPSfSMjU8=
+
+Name: app/src/main/assets/projectitem.aly
+SHA1-Digest: iZWr2XWEkWkIzaB43xQNLsmmW70=
+
+Name: app/src/main/assets/res/AndLuaXY1.png
+SHA1-Digest: 7PIf+P9ZwAIUb730uspSI+WBSRY=
+
+Name: app/src/main/assets/res/AndLuaXY10.png
+SHA1-Digest: 02uWRRK4NoscomOXP9gF8ElpVko=
+
+Name: app/src/main/assets/res/AndLuaXY11.png
+SHA1-Digest: nnzI6bLfYOU61ga1rfx51tZX9kY=
+
+Name: app/src/main/assets/res/AndLuaXY2.png
+SHA1-Digest: Xwrs6XLkUSGZREvdk6LfYSUcvgk=
+
+Name: app/src/main/assets/res/AndLuaXY3.png
+SHA1-Digest: 0v8SXyXwMdsz5A5l78ebbZhUTmE=
+
+Name: app/src/main/assets/res/AndLuaXY4.png
+SHA1-Digest: 5Y8A5EItAbUr0hTcA7KqangmMwY=
+
+Name: app/src/main/assets/res/AndLuaXY5.png
+SHA1-Digest: yxGOUB24ncWVmEnKj/dF4To5laE=
+
+Name: app/src/main/assets/res/AndLuaXY6.png
+SHA1-Digest: I1V78m/PleswK0RjRxuXPEJfzIU=
+
+Name: app/src/main/assets/res/AndLuaXY7.png
+SHA1-Digest: GTZYD0Np/i5aNjgBYV88wpe+zGw=
+
+Name: app/src/main/assets/res/AndLuaXY8.png
+SHA1-Digest: 77j1oOaLWBQvRC9B4+Rlg+eCAzw=
+
+Name: app/src/main/assets/res/AndLuaXY9.png
+SHA1-Digest: Zl4IcvtRKZOmWwG/YSWid1A1Qso=
+
+Name: app/src/main/assets/res/a.png
+SHA1-Digest: gZXFA8JUbUa93qA6fBnR6SwD/kc=
+
+Name: app/src/main/assets/res/a1.png
+SHA1-Digest: OnpC7jHKKHt17hxC1ki6WQ3nx64=
+
+Name: app/src/main/assets/res/a2.png
+SHA1-Digest: +6j49aQwRGKashFYcc7ENWxYgkE=
+
+Name: app/src/main/assets/res/a3.png
+SHA1-Digest: WaFzKL1ilOxRoy682eJn2TjukQw=
+
+Name: app/src/main/assets/res/b.png
+SHA1-Digest: iJCsl3FkZpN63+TNl+YRI77wGQ4=
+
+Name: app/src/main/assets/res/b1.png
+SHA1-Digest: 9tpcl3AyIWiigfc5v/1Uf9crvDM=
+
+Name: app/src/main/assets/res/b2.png
+SHA1-Digest: A3a6BxxaSrN6cQZI/q0+k6vEgHo=
+
+Name: app/src/main/assets/res/b3.png
+SHA1-Digest: ve3ZmXNfQauW0VTEv3rlS5awPYM=
+
+Name: app/src/main/assets/res/bft.png
+SHA1-Digest: i5nGXCMAaj8qaqTdBadyoOa+qFA=
+
+Name: app/src/main/assets/res/c.png
+SHA1-Digest: 0lIIJZrQury2WIQmN64ixXKImsg=
+
+Name: app/src/main/assets/res/d1.png
+SHA1-Digest: sacg40lMt8zhzmHesatKAKKhGDk=
+
+Name: app/src/main/assets/res/d2.png
+SHA1-Digest: tfsmzwyh5ZOYTDta/UunwalZ1TA=
+
+Name: app/src/main/assets/res/d3.png
+SHA1-Digest: mzBC2WaY2ez+Djzh1QzK3//bDPo=
+
+Name: app/src/main/assets/res/d4.png
+SHA1-Digest: Eho4oRrJ2iFewdHptbJJTntBRLA=
+
+Name: app/src/main/assets/res/end1.png
+SHA1-Digest: Y/gmqR55G1chxuhyCI6VGdyvlzM=
+
+Name: app/src/main/assets/res/end2.png
+SHA1-Digest: 5BXM+WEA3wr2GziLf6D5a/VE7PE=
+
+Name: app/src/main/assets/res/end3.png
+SHA1-Digest: aIKte06b1WxK2Vql+jH7K3AEE2A=
+
+Name: app/src/main/assets/res/end4.png
+SHA1-Digest: ITwk9zKO6SLghXrrbjGjdjDgaUY=
+
+Name: app/src/main/assets/res/end5.png
+SHA1-Digest: Qv+gd47O0CtVl09DBZHkg71ScJs=
+
+Name: app/src/main/assets/res/search.png
+SHA1-Digest: 2lJTXJPlfeSd9wQDmNtVJ3jSbR4=
+
+Name: app/src/main/assets/res/set.png
+SHA1-Digest: yBIGvfTg/XmSQHCX1FqkxS9YH9g=
+
+Name: app/src/main/assets/res2/apk.png
+SHA1-Digest: mL38yk/qKGq6ek/qHbEIJWrwgmw=
+
+Name: app/src/main/assets/res2/compression.png
+SHA1-Digest: i6hv/qqsvNzAayJ2GlB7wPCihDM=
+
+Name: app/src/main/assets/res2/file.png
+SHA1-Digest: iDcgHCkvEICjcnDKsVJLQxuvqDQ=
+
+Name: app/src/main/assets/res2/folder.png
+SHA1-Digest: F5YxUu65v/DhVVa9P8HI8Xtyx0E=
+
+Name: app/src/main/assets/res2/image.png
+SHA1-Digest: xSLQw8VUSqLa7RIdLDb0QwndBiM=
+
+Name: app/src/main/assets/res2/music.png
+SHA1-Digest: kfICBTIMuolJ31dn+3QN8vLradk=
+
+Name: app/src/main/assets/res2/pdf.png
+SHA1-Digest: S3M1YxBQbobqg7YzpFwC5liaQh8=
+
+Name: app/src/main/assets/res2/text.png
+SHA1-Digest: XdHx7Ix30Hefo7hEKNejKrl1hN4=
+
+Name: app/src/main/assets/res2/video.png
+SHA1-Digest: Mp6LxyTfWk0HiUy28wAecF+CI30=
+
+Name: app/src/main/assets/res2/xml.png
+SHA1-Digest: tRVNoIuPxzzGdLDh+erh02UDU5w=
+
+Name: app/src/main/assets/res3/1.png
+SHA1-Digest: Q43+1eprHRTaeSI4zK0g7vCO5mE=
+
+Name: app/src/main/assets/res3/2.png
+SHA1-Digest: fC4SHfI/EsPNii0NM9fh60AhDjU=
+
+Name: app/src/main/assets/res3/3.png
+SHA1-Digest: YdB1RfnRjA5V3As0/pychRaEqqg=
+
+Name: app/src/main/assets/res3/4.png
+SHA1-Digest: eJWpc8WkSgtjR5uFFFE9Yncb4sQ=
+
+Name: app/src/main/assets/res3/5.png
+SHA1-Digest: vbt0LgwscAhNM3EdIJwOyfyg1DA=
+
+Name: app/src/main/assets/sign.dex
+SHA1-Digest: IcBx3YnV04xpOyXFrsgKUdG18T4=
+
+Name: app/src/main/assets/toast.lua
+SHA1-Digest: pdBRBVXf7wGl5yIKCOdayUvd1+4=
+
+Name: app/src/main/assets/xml2table.lua
+SHA1-Digest: hK8S30O70u/vnEbFv2zFlNEocEY=
+
+Name: app/src/main/assets/yidian.lua
+SHA1-Digest: BcBBaKAGqKBJpXJ2QfO1VXtsioI=
+
+Name: app/src/main/java/android/app/AlertDialogBuilder.java
+SHA1-Digest: wFTU8eRWUkqbW8xwrEX74PH10xk=
+
+Name: app/src/main/java/android/app/FloatWindow.java
+SHA1-Digest: lu9af7Xr5hHC8mPkfqAwr0qHaIc=
+
+Name: app/src/main/java/android/content/FileProvider.java
+SHA1-Digest: 7gyYXLbtSRUuWMRpgTcTyBOvyKI=
+
+Name: app/src/main/java/android/support/annotation/IntRange.java
+SHA1-Digest: QOzblvhOR3fSua4AJnEklp81pag=
+
+Name: app/src/main/java/android/support/annotation/RequiresApi.java
+SHA1-Digest: 60bFr5p4gfmj3aYrN1ExnO/Nfro=
+
+Name: app/src/main/java/android/support/multidex/MultiDex.java
+SHA1-Digest: /xah43zEdf8FDtN6cp3QaMRH0RY=
+
+Name: app/src/main/java/android/support/multidex/MultiDexExtractor.jav
+ a
+SHA1-Digest: FOLHaDF+D33lziUlbyxmys+To6w=
+
+Name: app/src/main/java/android/support/multidex/ZipUtil.java
+SHA1-Digest: rvdzrqA2eaTHkgweAyMF7YLvoK8=
+
+Name: app/src/main/java/android/support/v4/app/Fragment.java
+SHA1-Digest: GjRMTYN38reLMGqiLgYsEoAbzIA=
+
+Name: app/src/main/java/android/widget/ArrayExpandableListAdapter.java
+SHA1-Digest: AeZRb+WPC2WW2ZnlLJC1m6QmHXE=
+
+Name: app/src/main/java/android/widget/ArrayListAdapter.java
+SHA1-Digest: IEQMWd5T2RIliXiOKwAZRd4H8b4=
+
+Name: app/src/main/java/android/widget/ArrayPageAdapter.java
+SHA1-Digest: a9KnO6bWBFKp4Pooe11VcqlwXrY=
+
+Name: app/src/main/java/android/widget/BasePageAdapter.java
+SHA1-Digest: gEiAA09s8SA4u7IsX/ceURrVzLY=
+
+Name: app/src/main/java/android/widget/CardView.java
+SHA1-Digest: abe0G6ul1YGmmNDis5GPCpsRn7Y=
+
+Name: app/src/main/java/android/widget/CardViewDelegate.java
+SHA1-Digest: VtOMazCXvSOLiaib0oaLKuk0YHk=
+
+Name: app/src/main/java/android/widget/CardViewImpl.java
+SHA1-Digest: Okt6MQYWyeFrDReBBFckh/PByzU=
+
+Name: app/src/main/java/android/widget/CircleImageView.java
+SHA1-Digest: xtJWeoE/fVFilqHDB8ruEz7X7ck=
+
+Name: app/src/main/java/android/widget/DrawerLayout.java
+SHA1-Digest: dBY+0XX+bP05t7Hgr1CMJon2X1A=
+
+Name: app/src/main/java/android/widget/DrawerLayoutImpl.java
+SHA1-Digest: Dp3Faf/RkvySw9iZ5OUO6k/MbDU=
+
+Name: app/src/main/java/android/widget/ExListView.java
+SHA1-Digest: 3y3n0wv0QL/Iadc3IY7kj0Ap7s8=
+
+Name: app/src/main/java/android/widget/FloatButton.java
+SHA1-Digest: boam3bKBBnJS1JdXr6scpckwxJs=
+
+Name: app/src/main/java/android/widget/HorizontalListView.java
+SHA1-Digest: oGaCxmt3lzzhulwCHtKUwKB21sk=
+
+Name: app/src/main/java/android/widget/PageAdapter.java
+SHA1-Digest: ya87c367pDWc4c+CBie+q9ijSq8=
+
+Name: app/src/main/java/android/widget/PageLayout.java
+SHA1-Digest: 1mU62GYmpmEx5NP5TEBxotjTuk0=
+
+Name: app/src/main/java/android/widget/PageView.java
+SHA1-Digest: JygRJlAF7Behs/Jaq+tjV8h05KU=
+
+Name: app/src/main/java/android/widget/PullingLayout.java
+SHA1-Digest: tPDmKnsWLj3PK2E557arpeTPU5w=
+
+Name: app/src/main/java/android/widget/RippleHelper.java
+SHA1-Digest: /CYhUXE2lz1nFZcgpsBL6RAC+P0=
+
+Name: app/src/main/java/android/widget/RippleLayout.java
+SHA1-Digest: vdnPp22e1XauhKqUA3JtSKFXPXI=
+
+Name: app/src/main/java/android/widget/RoundRectDrawable.java
+SHA1-Digest: 7f/aoRGdIXGM0a2togmPSX7C/Z4=
+
+Name: app/src/main/java/android/widget/RoundRectDrawableWithShadow.jav
+ a
+SHA1-Digest: zETP5xZe+xi2Tyh3yt73PdKUqM0=
+
+Name: app/src/main/java/android/widget/SlidingLayout.java
+SHA1-Digest: BxLpu++iNUNE2cVVVLXeHSUys7E=
+
+Name: app/src/main/java/android/widget/ToolBar.java
+SHA1-Digest: vcTWoBEkJX15PwhBjUGrcqWLrvk=
+
+Name: app/src/main/java/android/widget/ViewDragHelper.java
+SHA1-Digest: ue5x2txhOKus6ToYSrlnCFAGMS8=
+
+Name: app/src/main/java/com/android/cglib/dx/AppDataDirGuesser.java
+SHA1-Digest: WPwIxrs5mZ9y3MgnNJpJzLLqohE=
+
+Name: app/src/main/java/com/android/cglib/dx/BinaryOp.java
+SHA1-Digest: 0t0u+ujtl/L0CooQKOcCEV1JozM=
+
+Name: app/src/main/java/com/android/cglib/dx/Code.java
+SHA1-Digest: 88/6Yq2XgZ6IFMrJ50tDZIFg9go=
+
+Name: app/src/main/java/com/android/cglib/dx/Comparison.java
+SHA1-Digest: oHuJV28M9kPEd0mazVt/znomQlY=
+
+Name: app/src/main/java/com/android/cglib/dx/Constants.java
+SHA1-Digest: +tCcRyH3YWnYR9I8Zdwwm+e3Ggg=
+
+Name: app/src/main/java/com/android/cglib/dx/DexMaker.java
+SHA1-Digest: rxRQrTT9TONoXYlM41ANB5snvJs=
+
+Name: app/src/main/java/com/android/cglib/dx/FieldId.java
+SHA1-Digest: 0zjqnT0v0D9oXqcPdv+StcQ8wiA=
+
+Name: app/src/main/java/com/android/cglib/dx/Label.java
+SHA1-Digest: o/zoD2BYS3JLzc6wGWLgKNWAApo=
+
+Name: app/src/main/java/com/android/cglib/dx/Local.java
+SHA1-Digest: 0cujj9eupezgvhMHx8kd3z9jOdc=
+
+Name: app/src/main/java/com/android/cglib/dx/MethodId.java
+SHA1-Digest: Jyp0IH+ZlyUtdO2LfdrOk1OtLqA=
+
+Name: app/src/main/java/com/android/cglib/dx/TypeId.java
+SHA1-Digest: 56tiNH/GkKYsBYS6M8Q04/1MAOc=
+
+Name: app/src/main/java/com/android/cglib/dx/TypeList.java
+SHA1-Digest: /qff7zXZ9bufAYiRcJniVNKiZSg=
+
+Name: app/src/main/java/com/android/cglib/dx/UnaryOp.java
+SHA1-Digest: mVYLkrL6Amb7SGPrPu4adwyGW+Y=
+
+Name: app/src/main/java/com/android/cglib/dx/Version.java
+SHA1-Digest: T8HZynioJpK2cSDE1Jy/Mj7NUPw=
+
+Name: app/src/main/java/com/android/cglib/dx/cf/code/Merger.java
+SHA1-Digest: siYZccurG8psJEyAkcgirsgYNuE=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/DexFormat.java
+SHA1-Digest: hoqG8C3IXizJFGZTHIA2DwgVX4A=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/DexOptions.java
+SHA1-Digest: w2vFmk6JxeJhzWvdtBPOL5DpIKU=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/SizeOf.java
+SHA1-Digest: NO8rCwcjO5AcbA+EisTJ0CYGSsk=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/ArrayData.java
+SHA1-Digest: 69Hef0pBVvAffwrf2n59qcdbhZ0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/BlockAddresses.j
+ ava
+SHA1-Digest: 72XxGqC7aOD3gXEeDDssBgyWD+g=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/CatchBuilder.jav
+ a
+SHA1-Digest: dh8S6A5oYLPjbdSU+lL9FL+phRE=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/CatchHandlerList
+ .java
+SHA1-Digest: wH1elyYEWPrnRDg2bOt14yiAN8U=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/CatchTable.java
+SHA1-Digest: AWy/wXeOYdI7U6l3g/MJ35kolKM=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/CodeAddress.java
+SHA1-Digest: pKb9TYTmU10bM8DOGtb2fp0U1ss=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/CstInsn.java
+SHA1-Digest: Yftr74zWcRAdgrlvNZyeXDHAXzs=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/DalvCode.java
+SHA1-Digest: Y1zj3mZP7gamn6NMB44H5uwv9fk=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/DalvInsn.java
+SHA1-Digest: cTSAVVbTKsBPl42nIZqaD8Ckq3k=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/DalvInsnList.jav
+ a
+SHA1-Digest: Bkzchak75LpmkGzyI6oDkUpRS/Y=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/Dop.java
+SHA1-Digest: zZMLJJt9S/8u0fKjxdjspcZA2d8=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/Dops.java
+SHA1-Digest: zYPeMackNoz/9gUCU2lnoNjossQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/FixedSizeInsn.ja
+ va
+SHA1-Digest: pfUjOfA0M3/B1/BRm9iAPh5ypm0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/HighRegisterPref
+ ix.java
+SHA1-Digest: 0zhcSaquD6X9ljMGskcjuJDz6Jk=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/InsnFormat.java
+SHA1-Digest: 9jZW/tq/D4Sv1DpHZcrhURmk13M=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/LocalEnd.java
+SHA1-Digest: vs+wav7fDloE6wT2AaOMemCdSsQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/LocalList.java
+SHA1-Digest: HTL3aHRAizY4aYYpjL+jtRRoloE=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/LocalSnapshot.ja
+ va
+SHA1-Digest: l9Fny3iMeZnOYbQhzUD1I45E5Ek=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/LocalStart.java
+SHA1-Digest: N9EXv7Y7TnmzwHfWr4h3cmOjpjs=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/OddSpacer.java
+SHA1-Digest: ebhDrHK8uGx0FxGyyTcu1EjhkYY=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/OutputCollector.
+ java
+SHA1-Digest: DnXDEgENVLB5KuB3NgvRWfBbi/8=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/OutputFinisher.j
+ ava
+SHA1-Digest: WCmHOVDVH1vF8ZY46GSEAsJJhzs=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/PositionList.jav
+ a
+SHA1-Digest: wX/UkLa1zHp+hvh8+4IKTsMxLDI=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/RopToDop.java
+SHA1-Digest: 1dMrTpxpePNvad0X1TB2iTrXodk=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/RopTranslator.ja
+ va
+SHA1-Digest: 9hFwYnJYw7gTp/zFDtgQx2VXGkQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/SimpleInsn.java
+SHA1-Digest: tiY63g8mOSC0pVevAgEW3d/R5os=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/StdCatchBuilder.
+ java
+SHA1-Digest: 20sZhO+xj5flCQ40ZBVbdu+nTmU=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/SwitchData.java
+SHA1-Digest: wh01XTaGa/2izhJ32hqoN+Kfp18=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/TargetInsn.java
+SHA1-Digest: rHjkfBPV64OjaHYs6QE0u0gLGkw=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/VariableSizeInsn
+ .java
+SHA1-Digest: 20YpTvzg29NyLrdv1ZyLaIWMzgQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/ZeroSizeInsn.jav
+ a
+SHA1-Digest: 2BSNaeXqVFSQd0tx48sfch1Ujfo=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form10t.jav
+ a
+SHA1-Digest: bc/kNpGGfaummD9Hc7dR5fF0cII=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form10x.jav
+ a
+SHA1-Digest: A8tLQDD1/BHTaSiLjv8GvSo8SbY=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form11n.jav
+ a
+SHA1-Digest: 4KpNANwnBVvSRRnWwmc5nmnCOto=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form11x.jav
+ a
+SHA1-Digest: NfZZbIDKy3vn/KJ0CLV4TcR8wmE=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form12x.jav
+ a
+SHA1-Digest: ZyDQcLkrthtWUPTs+BEfFIhvo4I=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form20t.jav
+ a
+SHA1-Digest: zMfhcJWbHz6vUkFK1fHt9fO1LpQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form21c.jav
+ a
+SHA1-Digest: ZpZ7Os6md48wDZhPlMgIKhq4+NM=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form21h.jav
+ a
+SHA1-Digest: bDrBdyJNa8kxytg4fL5wtOw0ofQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form21s.jav
+ a
+SHA1-Digest: 3dYZWHHUqdtJzH4/Z7Uz2MNpP6g=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form21t.jav
+ a
+SHA1-Digest: SxGFcJi5Zj1koiG0/3fPp5SwcJE=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form22b.jav
+ a
+SHA1-Digest: ROCMmrekPUAtgwzQmFp+MzznV8Q=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form22c.jav
+ a
+SHA1-Digest: c0WuVTPxqAEhX/Vmsk9Py4uaigQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form22s.jav
+ a
+SHA1-Digest: GeC5vej90j6uFEtkrO9nDKRiOJY=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form22t.jav
+ a
+SHA1-Digest: utYCOen43hONulKFPbVs4jK2njU=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form22x.jav
+ a
+SHA1-Digest: /QMKTtqGIYX77cI04Zd4ddQbtb0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form23x.jav
+ a
+SHA1-Digest: Vt/gx4+iJ1wsQjSpXbFCuDqCeB4=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form30t.jav
+ a
+SHA1-Digest: 5r6f7jilsDf3StN/FLL3PGVPnEo=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form31c.jav
+ a
+SHA1-Digest: 1efQCX8x+p0YF3i3XyFq0TS5gss=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form31i.jav
+ a
+SHA1-Digest: QPVLB0Ih/Zeb3V5+MBJPEFyfArI=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form31t.jav
+ a
+SHA1-Digest: AMlCqTJRYCMuMdf+czNLr0Ufw2w=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form32s.jav
+ a
+SHA1-Digest: rz2XAa+DGaoqZmANHr6ezHLQDT0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form32x.jav
+ a
+SHA1-Digest: UjgusgKwT7JOJT+1eNIxTPZN6Vo=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form33x.jav
+ a
+SHA1-Digest: +rSaqZg6QN20XCAIwx4xFtxyTu4=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form35c.jav
+ a
+SHA1-Digest: G3VusCnqM0p5RmRU6jEliKYGySQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form3rc.jav
+ a
+SHA1-Digest: A8LMA5gAkdTr9EN7UCOKJxZUsjE=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form41c.jav
+ a
+SHA1-Digest: 94dx4QJQ0/rUOY+BAMtGjOUPJ58=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form51l.jav
+ a
+SHA1-Digest: ikBil37PNpNKwQS8ikPS1rOyQr0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form52c.jav
+ a
+SHA1-Digest: P7Z7YIlyIXXFYOng35qCh8UbzRc=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/Form5rc.jav
+ a
+SHA1-Digest: GW5V8JvbSOK5QT1UDBet2jXc9Ig=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/code/form/SpecialForm
+ at.java
+SHA1-Digest: LL9EVUIwjKm/5eSrbqhoutMntDs=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/AnnotationItem.j
+ ava
+SHA1-Digest: 3ZA4QJDITY+u1nq1ssyi79Qr4V0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/AnnotationSetIte
+ m.java
+SHA1-Digest: Hr/GvqhCexq/xtBr85AoW2aF58M=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/AnnotationSetRef
+ Item.java
+SHA1-Digest: qoAxXRyNldPq3cO2Z/L2xyhjcZs=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/AnnotationUtils.
+ java
+SHA1-Digest: 9jVkPdEiayjy0/2OL7MW0b3LgEA=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/AnnotationsDirec
+ toryItem.java
+SHA1-Digest: XZt4XgQ7uX9o/5kW+5G7+n/hZFo=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/CatchStructs.jav
+ a
+SHA1-Digest: DnAlvTNkHrX2aRHNxPX8b42sNHM=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ClassDataItem.ja
+ va
+SHA1-Digest: 48qYUW2tUEIqDUtFzibHonzflWk=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ClassDefItem.jav
+ a
+SHA1-Digest: 1+9B/cWVCNIwLSTgcEUWGAKxdhM=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ClassDefsSection
+ .java
+SHA1-Digest: 3uWTwBzWCEFO3SDGY8XiraX88K4=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/CodeItem.java
+SHA1-Digest: t2bRJ9zkyhKWnCaZ73JfczMFTn0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/DebugInfoConstan
+ ts.java
+SHA1-Digest: cpEX4Ner77F8NAdEdSq44ev46Ek=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/DebugInfoDecoder
+ .java
+SHA1-Digest: ZA7EpypfGfp/ZkzTI/BtWRTKCTI=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/DebugInfoEncoder
+ .java
+SHA1-Digest: 029Mkc2AbTdOtVT7GU17hIb+nu0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/DebugInfoItem.ja
+ va
+SHA1-Digest: KxrXCy8U8TrkihZeLGkBq6G6zs8=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/DexFile.java
+SHA1-Digest: DBkHT2B8IBI9KhOI2Gl9/nlSxmc=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/EncodedArrayItem
+ .java
+SHA1-Digest: IR1fogGz8BJCgV3oVNxXVr8vPv8=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/EncodedField.jav
+ a
+SHA1-Digest: Zfg1Z+Xu3wqODX9v9NyfaraUmoc=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/EncodedMember.ja
+ va
+SHA1-Digest: Fz9slzAyQgt18rCT3IX/qjZZXR0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/EncodedMethod.ja
+ va
+SHA1-Digest: hvE1dDetUdv+Eodb8HzdExUwv48=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/FieldAnnotationS
+ truct.java
+SHA1-Digest: VZC95336u/AVDZVzFNCNaAeBUEk=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/FieldIdItem.java
+SHA1-Digest: gxifX9M4ZXgu+H5XN+MIGD013sI=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/FieldIdsSection.
+ java
+SHA1-Digest: iRViFHy9hykel8js+Af50iwN+M0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/HeaderItem.java
+SHA1-Digest: PY6xyDcl75x1BvyaqjjfEseIRCM=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/HeaderSection.ja
+ va
+SHA1-Digest: p9V72mFwuCvglWIoav3KReStE50=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/IdItem.java
+SHA1-Digest: ubtTUviynAajHgocepgthM89Y3c=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/IndexedItem.java
+SHA1-Digest: N2GRd4siSkx5VWsvZXTkbgnbjC0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/Item.java
+SHA1-Digest: ciIeBkwrGiK+NVUxrsCIbTeZoYo=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ItemType.java
+SHA1-Digest: uUtMAZY2VqMddGXRkkKzzKcl35M=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MapItem.java
+SHA1-Digest: 5WOFk24LzlP8h9wXxdDNedq0VDY=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MemberIdItem.jav
+ a
+SHA1-Digest: RPs2r/EGnM2BMQ+E7uiCO6pVuqU=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MemberIdsSection
+ .java
+SHA1-Digest: 5r/6pju51CkVQrpM/tW4eBdop0k=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MethodAnnotation
+ Struct.java
+SHA1-Digest: /YUV3kIUzmhk/0q892TzMe/UoPg=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MethodIdItem.jav
+ a
+SHA1-Digest: hk4lttRFuhIfC3WbVMJWrBKIv/8=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MethodIdsSection
+ .java
+SHA1-Digest: hTbG0Hkc9vCbUYcrGxNAXofQ+y0=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/MixedItemSection
+ .java
+SHA1-Digest: ZoHrUGxwLen4MelBwmBB+7TNm5o=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/OffsettedItem.ja
+ va
+SHA1-Digest: E9L24AbN3xf4uEuNJKOJFxAGyyY=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ParameterAnnotat
+ ionStruct.java
+SHA1-Digest: bIj47g1NoQj7ZRx1j7b9miVNhSM=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ProtoIdItem.java
+SHA1-Digest: n6ulPst4GG6+ejuV2yXmeXr8vD4=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ProtoIdsSection.
+ java
+SHA1-Digest: tMYBR3hxtbUPDEeGuM4pjnZT2JQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/Section.java
+SHA1-Digest: AzIVcYxxWVMPOir1kOTXur0lhtc=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/Statistics.java
+SHA1-Digest: 1+oFjnxPW1PeuJz5mSmrwkVsPsQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/StringDataItem.j
+ ava
+SHA1-Digest: Omo70RXr5yUjDct6ZOMwjbOVpkw=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/StringIdItem.jav
+ a
+SHA1-Digest: +dGDNCkO7azlaVpRApoGmq1/JBQ=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/StringIdsSection
+ .java
+SHA1-Digest: 2WDNKDosPRvQi4Q2AWZ8NdF1WY8=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/TypeIdItem.java
+SHA1-Digest: slg8s3o9mal1Jy3+RmecSyBIneY=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/TypeIdsSection.j
+ ava
+SHA1-Digest: K/tdZm1Agw61Ijr1/fqkGqul95s=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/TypeListItem.jav
+ a
+SHA1-Digest: bW91mTwlrYu9oZ1W8HYNn0lhFzw=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/UniformItemSecti
+ on.java
+SHA1-Digest: ErAf0XdfjDul1+n+tJE6XtsjM3s=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/UniformListItem.
+ java
+SHA1-Digest: x+G+eEy9LwA3mlYx0t1jtILMY0Q=
+
+Name: app/src/main/java/com/android/cglib/dx/dex/file/ValueEncoder.jav
+ a
+SHA1-Digest: dRrHumJhopf6GbFaVrArYSS/JXo=
+
+Name: app/src/main/java/com/android/cglib/dx/io/Code.java
+SHA1-Digest: +CE9SIoS7fjV8HQtyEgcfrkQmzU=
+
+Name: app/src/main/java/com/android/cglib/dx/io/CodeReader.java
+SHA1-Digest: bfnh5k1rkzpFOg7mnyReesVpCUY=
+
+Name: app/src/main/java/com/android/cglib/dx/io/IndexType.java
+SHA1-Digest: /TKt5/EHAveO8aSBdI9wlIpO57s=
+
+Name: app/src/main/java/com/android/cglib/dx/io/OpcodeInfo.java
+SHA1-Digest: f8pJ1o7tCBRlrAJPxwbai78vnb4=
+
+Name: app/src/main/java/com/android/cglib/dx/io/Opcodes.java
+SHA1-Digest: ac1szMWSDsjP/0otbjtx7uPfO0o=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/AddressMa
+ p.java
+SHA1-Digest: rPntNaIWGvF69L3XMOZmHUdSWIw=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/BaseCodeC
+ ursor.java
+SHA1-Digest: bG8TikgVw1ZEQUpX1VFiMFRumh4=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/CodeCurso
+ r.java
+SHA1-Digest: SQPzMyZi7NodiRVC4oLOAGgymq4=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/CodeInput
+ .java
+SHA1-Digest: qrJJBH0HYVpEutBzW2GaZFkgVtU=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/CodeOutpu
+ t.java
+SHA1-Digest: M7ajVM6DgLn3VL1pHyrjh1z2xA8=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/DecodedIn
+ struction.java
+SHA1-Digest: Ba6S+uLg+EDVAF5P/BzAgsrlL9g=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/FillArray
+ DataPayloadDecodedInstruction.java
+SHA1-Digest: yKO+Uf1daZdopRxzBh1ffDYAoH8=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/FiveRegis
+ terDecodedInstruction.java
+SHA1-Digest: 3dH3+u9R7+K0a5lG+VxXq+V4CUQ=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/FourRegis
+ terDecodedInstruction.java
+SHA1-Digest: ozJfEHGbBEoTzzEJmW/AP6go+BY=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/Instructi
+ onCodec.java
+SHA1-Digest: SE1/36D/RAs9DNZfG01UgyfV/24=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/OneRegist
+ erDecodedInstruction.java
+SHA1-Digest: u9i5M81XTHPXThiGwXMyGA9NnQw=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/PackedSwi
+ tchPayloadDecodedInstruction.java
+SHA1-Digest: ESfmmxuhK3AGH6jGRgMomBBSrCE=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/RegisterR
+ angeDecodedInstruction.java
+SHA1-Digest: XvzvD8ICTNAf8A+dX4p5qr8bj1s=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/ShortArra
+ yCodeInput.java
+SHA1-Digest: WUAwG9bYzsOm2SC53aPs9IIsTYA=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/ShortArra
+ yCodeOutput.java
+SHA1-Digest: PicbEyF7nb3HGXrkhbv3lTwWvYs=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/SparseSwi
+ tchPayloadDecodedInstruction.java
+SHA1-Digest: TQ0Eo+g571DGBYbF+JgzMXl0CDE=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/ThreeRegi
+ sterDecodedInstruction.java
+SHA1-Digest: X+vyCv3dn+C8fqmjzL5xYU6IHks=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/TwoRegist
+ erDecodedInstruction.java
+SHA1-Digest: SHLhgOU5PoOK/KGhTSJNC0WbyyA=
+
+Name: app/src/main/java/com/android/cglib/dx/io/instructions/ZeroRegis
+ terDecodedInstruction.java
+SHA1-Digest: +zKEYFNmlSOBodjVg3Dchcqcy5o=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/annotation/Annotation
+ .java
+SHA1-Digest: FwlMbYPo/dezibXuxW6Nyps8n8g=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/annotation/Annotation
+ Visibility.java
+SHA1-Digest: a1z0I89d91yT4Tty8q8gZyy17wQ=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/annotation/Annotation
+ s.java
+SHA1-Digest: 81gIvKHNVab6vZwmzkg4MktQlFE=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/annotation/Annotation
+ sList.java
+SHA1-Digest: 575cS/I1Car4xrtCzC25vFUN42s=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/annotation/NameValueP
+ air.java
+SHA1-Digest: kf1Lrc4KD9to1E7DD7LhGrNLvts=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/AccessFlags.java
+SHA1-Digest: eMdU3wuWhFrHO1ByAt3Owa1TI50=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/BasicBlock.java
+SHA1-Digest: P1ez7PuKMSxr9eJ0RAGYWtEQG0M=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/BasicBlockList.j
+ ava
+SHA1-Digest: 0wjNdcqnp7t2C/NgDGbghYwF+Tg=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/ConservativeTran
+ slationAdvice.java
+SHA1-Digest: Gk6vhrf2hu23+hacmgviDMQIxUI=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/CstInsn.java
+SHA1-Digest: h0J8u/sZXJrM0vQYZNOGY8HHv1Q=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/DexTranslationAd
+ vice.java
+SHA1-Digest: ekupWBzL3FOZeOoP4yb8g5xTlKg=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/Exceptions.java
+SHA1-Digest: XE0R/fBoCprpLtIH0JN528QYPJc=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/FillArrayDataIns
+ n.java
+SHA1-Digest: CMnBkrT+VCgWBY9ozmAe2sbyUzI=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/Insn.java
+SHA1-Digest: cf/nKv6eZQLDPmHP5Dajcld5/PA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/InsnList.java
+SHA1-Digest: 1lmVDJfYdebUE8v2lNwVz64lvto=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/LocalItem.java
+SHA1-Digest: 5H9GPExU4FqguiUTuecJBtpyNlA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/LocalVariableExt
+ ractor.java
+SHA1-Digest: T6MgCwvxMVwqtMJqkx5lPRJ/GiU=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/LocalVariableInf
+ o.java
+SHA1-Digest: tf2CNpb5/1wv+RgWn5PSeBBRaf4=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/PlainCstInsn.jav
+ a
+SHA1-Digest: 6Zg02ECmZbg6ENC5uTgOcy3RZR0=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/PlainInsn.java
+SHA1-Digest: WN9ihz+kRutntmvS+IJiZqWZ0i4=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/RegOps.java
+SHA1-Digest: cF8NAg5vuTVnqHsmN0NStEzHrSg=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/RegisterSpec.jav
+ a
+SHA1-Digest: KTrWtOjZgaX3/d4Jk+BTgyuoI10=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/RegisterSpecList
+ .java
+SHA1-Digest: fcByyhV4f82uzg5cikf2fqr8FWs=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/RegisterSpecSet.
+ java
+SHA1-Digest: Kd6g1gqIb+Mz+3n0Wqzz7mp3MyE=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/Rop.java
+SHA1-Digest: PrkJ1Sz1+j6ls8RvRfBLby6ikRA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/RopMethod.java
+SHA1-Digest: +FLOfVnXdyQ7PN+CErPDeo/MYPg=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/Rops.java
+SHA1-Digest: ij/avceGDIHciHaVF3PnPon3f8A=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/SourcePosition.j
+ ava
+SHA1-Digest: P2SXJ2D0ix5lTclJoBp3kUs6VkI=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/SwitchInsn.java
+SHA1-Digest: uk487Wg3chys6YGvVul8kyXGtd8=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/ThrowingCstInsn.
+ java
+SHA1-Digest: cZ7yxw7Sylg+ptB0Cyb5fIP8bbI=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/ThrowingInsn.jav
+ a
+SHA1-Digest: H2A1NSgFLDiFAVq5/O4q641MlOM=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/code/TranslationAdvic
+ e.java
+SHA1-Digest: bxSpAQhtAFA9rSMzj5f2xK9tl24=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/Constant.java
+SHA1-Digest: qCj8A/JvNxyn0LtVpgxO4fY5DA8=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/ConstantPool.java
+SHA1-Digest: cs09Egw/ix7ogulo69vrzgTa0tQ=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstAnnotation.jav
+ a
+SHA1-Digest: +KZIlKVYdJ4iZ32AfmRhn7S6dM0=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstArray.java
+SHA1-Digest: DjdTnZupHMtrtFjI/GjEsRbdf/Y=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstBaseMethodRef.
+ java
+SHA1-Digest: Kmf8cNhkXxRa094V8WyWMng+aOk=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstBoolean.java
+SHA1-Digest: QL+Vg/JlV8vH0BwcAkVDhum3im4=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstByte.java
+SHA1-Digest: mihLDkf8QSY68BzHqRaX0a53YEo=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstChar.java
+SHA1-Digest: 3iZSvb2Lq3V7PVvZFerTzYiA5fA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstDouble.java
+SHA1-Digest: U16T3OLLNwUYcw+OPvNP4DlNOtg=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstEnumRef.java
+SHA1-Digest: r4QgiJOJj6H0VaXAt4BrxkckyYA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstFieldRef.java
+SHA1-Digest: OaWUl2XZDN0sSrx/y6AMcKqzTXU=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstFloat.java
+SHA1-Digest: J2iCa4U/xdxk8KsIxsEqOcm9Bf4=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstInteger.java
+SHA1-Digest: 0unAWxoqaLlBWi0LvVY+ogd7Pfo=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstInterfaceMetho
+ dRef.java
+SHA1-Digest: KRLZsiF3v3RGk8qlTZ6gDJjaAiQ=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstKnownNull.java
+SHA1-Digest: 6h+sERERNCXzCSekp3XWo4FPsQ4=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstLiteral32.java
+SHA1-Digest: 8iQZD4iT5QUUuXEtmcT20dz/G8s=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstLiteral64.java
+SHA1-Digest: /FtXF5NU13+0UieQ/LZ8Rky+fHA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstLiteralBits.ja
+ va
+SHA1-Digest: mmfISTamEovUdUjS8SKEZu4clNA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstLong.java
+SHA1-Digest: e3Ma2Fwk/jMq8pii5XrheWB3Kmk=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstMemberRef.java
+SHA1-Digest: 6l8GuE4WtV8WkxvKqG6tlkBDMos=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstMethodRef.java
+SHA1-Digest: vAEfaBe1oAR6zUwrYfEytxie6N0=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstNat.java
+SHA1-Digest: YFRI8IDfX1BPAQXCzRHVj2AjYFg=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstShort.java
+SHA1-Digest: gpXAC7tK30eaI4bOkR+BD2xcgYo=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstString.java
+SHA1-Digest: uFjKzIW/qt++6YIMbQV74m/PpjM=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/CstType.java
+SHA1-Digest: vpPwAutC7EMZLAkKWz0rE2yU71M=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/StdConstantPool.j
+ ava
+SHA1-Digest: oX0Uk7+bhW87JFvnkG/eOtlC8jE=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/TypedConstant.jav
+ a
+SHA1-Digest: 94PJoqq8HkT6J8F71bopJQo/CuA=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/cst/Zeroes.java
+SHA1-Digest: AISyU5fq5nGk7LG126Gp4432Y6E=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/type/Prototype.java
+SHA1-Digest: zYObaAydhSh6TaDhlV0kFMXlfSs=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/type/StdTypeList.java
+SHA1-Digest: Spi2P8zq6NDHaMAMMA3+/5mHeSs=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/type/Type.java
+SHA1-Digest: uL2z6Ui5MrRw4L+LX88z/XUVzg4=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/type/TypeBearer.java
+SHA1-Digest: cGm8ldiVPnSLRFIitIANIKhg0NE=
+
+Name: app/src/main/java/com/android/cglib/dx/rop/type/TypeList.java
+SHA1-Digest: hymVPgRJoWup+9AztwxBXS/RKgs=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/BasicRegisterMapper.j
+ ava
+SHA1-Digest: zI36dlnSVSAkyVjOmq4k920DiR8=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/ConstCollector.java
+SHA1-Digest: 3Z17PDWwHwIYn3BnAl+dybMsoAk=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/DeadCodeRemover.java
+SHA1-Digest: dnknn1cngpiZYvOD5YhtF8cydLM=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/DomFront.java
+SHA1-Digest: j8Aw9AcDQGCSBhxi6o5j/TQXwyA=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/Dominators.java
+SHA1-Digest: RBykfWZXdT+I7JnBtN/aVMeNcUU=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/EscapeAnalysis.java
+SHA1-Digest: f5QQ01OpeKXwr21e/6NmUyuMoeI=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/InterferenceRegisterM
+ apper.java
+SHA1-Digest: GzHBpSxoFIZkK5eZNEveDkR8D0A=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/LiteralOpUpgrader.jav
+ a
+SHA1-Digest: q6UlpEy+joDlg2v11IzaKjxDrOw=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/LocalVariableExtracto
+ r.java
+SHA1-Digest: jOVdvYZSaSN4xfxCLVM48RTjIlM=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/LocalVariableInfo.jav
+ a
+SHA1-Digest: khZJzyxde+HwROD/uumyY+x9aoo=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/MoveParamCombiner.jav
+ a
+SHA1-Digest: lbaWEo17sg+BPL0ocUQ6Uz9CU5M=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/NormalSsaInsn.java
+SHA1-Digest: +Vrec+2fdl+HuEvDt/FJuQNkxAc=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/Optimizer.java
+SHA1-Digest: Z6Qt1FAxt96rdF7vSF8zN4nrWu8=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/PhiInsn.java
+SHA1-Digest: BpbFb/Yv4kyE2pKppxCnPn78zTM=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/PhiTypeResolver.java
+SHA1-Digest: QRLM1r+YG2FLn2Ro1cIaQJ1rIEk=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/RegisterMapper.java
+SHA1-Digest: lHb0TgRfiMaoHk+u7xQKhZVebDo=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SCCP.java
+SHA1-Digest: ZER/Ov2+6JvyggS0mXyfxzS/15g=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SetFactory.java
+SHA1-Digest: FW6Tu/OX5MYxe+4mHR8ln30LAf8=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SsaBasicBlock.java
+SHA1-Digest: dopyKn8ftLUB4YB7dkYPpVWaUAg=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SsaConverter.java
+SHA1-Digest: KLhAGXxr9cqbeb0miY75N5mKT6c=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SsaInsn.java
+SHA1-Digest: +9k/1cW9lOHFyC9kkO12J8UU0gw=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SsaMethod.java
+SHA1-Digest: 5FknG8LaHPykiP7r+vTnV/1tLN4=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/SsaRenamer.java
+SHA1-Digest: YIJ2g8gXC/QBiWC2/lN7MW+5Wlw=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/FirstFitAllocato
+ r.java
+SHA1-Digest: ph7P0d4sJBaqO8rOi3GH3dAc33c=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/FirstFitLocalCom
+ biningAllocator.java
+SHA1-Digest: UKVie4i6xUDsdH6CdIwMMkKnJw8=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/IdenticalBlockCo
+ mbiner.java
+SHA1-Digest: Jbl6ulDHuXM/tZ5hV6c1bSyNYbU=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/InterferenceGrap
+ h.java
+SHA1-Digest: IwSt+CBlCGXVcu/j+L/y48wvfMk=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/LivenessAnalyzer
+ .java
+SHA1-Digest: s4X8HQyT7LiSn36gHEXbEiSRaWk=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/NullRegisterAllo
+ cator.java
+SHA1-Digest: uRCLkMTy6y/1HosK3Dgbo8x/bSw=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/RegisterAllocato
+ r.java
+SHA1-Digest: EAwc3+pt5CT/s/m1S4BtnB+gIXo=
+
+Name: app/src/main/java/com/android/cglib/dx/ssa/back/SsaToRop.java
+SHA1-Digest: cEizLN8dikPj2KYAPKpYIrqLmHo=
+
+Name: app/src/main/java/com/android/cglib/dx/stock/ProxyBuilder.java
+SHA1-Digest: LdlWmXLpyNiO93O4WGpQxf/wI+g=
+
+Name: app/src/main/java/com/android/cglib/dx/util/AnnotatedOutput.java
+SHA1-Digest: YGXTrbZ1Zr0Z6M9ALu6FLIS/08E=
+
+Name: app/src/main/java/com/android/cglib/dx/util/BitIntSet.java
+SHA1-Digest: H6EDwC+Egn5HlX+MG6it8suEUjs=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Bits.java
+SHA1-Digest: mICCNBXgttYQJnaKDVDWV+8D3vo=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ByteArray.java
+SHA1-Digest: TWu4E4RXv5YjXjz7EILwDQhKMXs=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ByteArrayAnnotatedOu
+ tput.java
+SHA1-Digest: JGPoBClEwBXxj487/X6FNBbruTo=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ByteArrayByteInput.j
+ ava
+SHA1-Digest: 877nXWAxhj6Dr42QhW1mltGq0o0=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ByteInput.java
+SHA1-Digest: GG7sDit6DI1Tu1s8WnEjGySdxvg=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ByteOutput.java
+SHA1-Digest: X/FlZJYSfp4O60HCiInFeu/CcVw=
+
+Name: app/src/main/java/com/android/cglib/dx/util/DexException.java
+SHA1-Digest: gdqA3suqK0ydrn7ffAK1MTUIUqo=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ExceptionWithContext
+ .java
+SHA1-Digest: 5tQ0lX5P6D5kvyIvCP/864PWa4Q=
+
+Name: app/src/main/java/com/android/cglib/dx/util/FileUtils.java
+SHA1-Digest: IQz6JE/dRxfPvP5wG9/UbkXfCTM=
+
+Name: app/src/main/java/com/android/cglib/dx/util/FixedSizeList.java
+SHA1-Digest: 80paJYGB/EGf+ropI1mjdVdLVUE=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Hex.java
+SHA1-Digest: 6Z5MYdrw9E8ltfEbzOtggcmNtjg=
+
+Name: app/src/main/java/com/android/cglib/dx/util/HexParser.java
+SHA1-Digest: 9ia+KYwv56sJpCua1pHqRACUPhg=
+
+Name: app/src/main/java/com/android/cglib/dx/util/IndentingWriter.java
+SHA1-Digest: l6qxCYtH6okHb3wddWvsYdYSTnY=
+
+Name: app/src/main/java/com/android/cglib/dx/util/IntIterator.java
+SHA1-Digest: B9JyOCavWZexVzpixURJfDLW9pA=
+
+Name: app/src/main/java/com/android/cglib/dx/util/IntList.java
+SHA1-Digest: a0IyzBepAeZFE6lbIwEM2GODuyY=
+
+Name: app/src/main/java/com/android/cglib/dx/util/IntSet.java
+SHA1-Digest: fG3rnojN5c4686P8No3ZPjxqNpg=
+
+Name: app/src/main/java/com/android/cglib/dx/util/LabeledItem.java
+SHA1-Digest: qe2dxoG6uzxO73MHpg6+XyIeri4=
+
+Name: app/src/main/java/com/android/cglib/dx/util/LabeledList.java
+SHA1-Digest: TkrE/739auZVNPn/XT9GTx41Poo=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Leb128Utils.java
+SHA1-Digest: P2h8ojLPyU9JXg3YK/aquZqgmpg=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ListIntSet.java
+SHA1-Digest: gOe3X5sacQIgnq/szLRYvMTOlw0=
+
+Name: app/src/main/java/com/android/cglib/dx/util/MutabilityControl.ja
+ va
+SHA1-Digest: Xqvl26cr58XX8kGnfsO7mbT/cdU=
+
+Name: app/src/main/java/com/android/cglib/dx/util/MutabilityException.
+ java
+SHA1-Digest: aJrllfZnLhZDsGZdPgX+/yUwjzM=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Mutf8.java
+SHA1-Digest: zBsIxidXj6hAm3Ay4fnjENry6g8=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Output.java
+SHA1-Digest: XV28n/ovwjopBvvueo53cWBXNEg=
+
+Name: app/src/main/java/com/android/cglib/dx/util/ToHuman.java
+SHA1-Digest: 2in4FrIDdjcX1psNga906sZYecw=
+
+Name: app/src/main/java/com/android/cglib/dx/util/TwoColumnOutput.java
+SHA1-Digest: 5UVLbu+hyU1oGzqu+9JHGfk4rFc=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Uint.java
+SHA1-Digest: kR4EZpsi2pouyVX8HMOODf9B8t0=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Unsigned.java
+SHA1-Digest: XnUgKhif48z39/0jU55dVywjoCI=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Warning.java
+SHA1-Digest: DzN/xQc7cQK+laO7qR2gWFXcMvw=
+
+Name: app/src/main/java/com/android/cglib/dx/util/Writers.java
+SHA1-Digest: U8tC1j3Nw8sZX3RZHoymysvR7Wc=
+
+Name: app/src/main/java/com/android/cglib/proxy/Const.java
+SHA1-Digest: 9qAiWpapzUu796wOY7Gffj+d910=
+
+Name: app/src/main/java/com/android/cglib/proxy/Enhancer.java
+SHA1-Digest: iDZm22IPUAwBrOeaSCRscdyt6mA=
+
+Name: app/src/main/java/com/android/cglib/proxy/EnhancerInterface.java
+SHA1-Digest: YuJfHme8wltA6hfv73o6LFjGAgY=
+
+Name: app/src/main/java/com/android/cglib/proxy/MethodFilter.java
+SHA1-Digest: q805F2GRF10zaNHy5ERZA/x4d6Y=
+
+Name: app/src/main/java/com/android/cglib/proxy/MethodInterceptor.java
+SHA1-Digest: QIxDIrSv3WopUDO5XtL7e8pHupQ=
+
+Name: app/src/main/java/com/android/cglib/proxy/MethodProxy.java
+SHA1-Digest: qJHyeXLlSppwnaPzPSJ+jGeKEKE=
+
+Name: app/src/main/java/com/android/cglib/proxy/MethodProxyExecuter.ja
+ va
+SHA1-Digest: LQ2CHGwHK3iiXANXSFPh079VBhE=
+
+Name: app/src/main/java/com/android/cglib/proxy/ProxyException.java
+SHA1-Digest: Tnskl+mfiDpVWn/SEiG6Y1Y0824=
+
+Name: app/src/main/java/com/androlua/CrashHandler.java
+SHA1-Digest: yIDvLraKtlZvpJuqeFn1xVMxEek=
+
+Name: app/src/main/java/com/androlua/Download.java
+SHA1-Digest: +CXmxEjyeOB1bHlaDwP3G77wtZk=
+
+Name: app/src/main/java/com/androlua/GifDecoder.java
+SHA1-Digest: 2oBdqUiEcmdEZKXrLNH81vP2KbI=
+
+Name: app/src/main/java/com/androlua/Http.java
+SHA1-Digest: QSz64kggHlFn3nLv5h6KUZgNXOI=
+
+Name: app/src/main/java/com/androlua/LoadingDrawable.java
+SHA1-Digest: EDjg5mwrxEMiEuesCT5jek+HP3w=
+
+Name: app/src/main/java/com/androlua/LuaAccessibilityService.java
+SHA1-Digest: zRsqMaeY6+w5dV1OeMGD7+dFHdQ=
+
+Name: app/src/main/java/com/androlua/LuaActivity.java
+SHA1-Digest: +kUdLJPLG+JTli4nmwBC8NBhLnE=
+
+Name: app/src/main/java/com/androlua/LuaActivityX.java
+SHA1-Digest: N+5oEQD6C2J09H049g6Lme2cFhA=
+
+Name: app/src/main/java/com/androlua/LuaAdapter.java
+SHA1-Digest: RarhLhlR+M5a2UR82X5NX3lv2/E=
+
+Name: app/src/main/java/com/androlua/LuaAnimation.java
+SHA1-Digest: 6MQpJFuS6hJFMVVhb56tCJrv/Pc=
+
+Name: app/src/main/java/com/androlua/LuaApplication.java
+SHA1-Digest: Xr/lp9hmaVN6BFrwFmB19IaXxK4=
+
+Name: app/src/main/java/com/androlua/LuaArrayAdapter.java
+SHA1-Digest: jXAWd1anobwMIi1FSmndcEpDZMo=
+
+Name: app/src/main/java/com/androlua/LuaAssetLoader.java
+SHA1-Digest: O4LWrbCwppgEvTbGp3l85ycVdQM=
+
+Name: app/src/main/java/com/androlua/LuaAsyncTask.java
+SHA1-Digest: JiqpG7tPqRu60si1FDJRlY4pr1U=
+
+Name: app/src/main/java/com/androlua/LuaBitmap.java
+SHA1-Digest: Olc4jpdiJQAN9BYpThlDF9ELeFY=
+
+Name: app/src/main/java/com/androlua/LuaBitmapDrawable.java
+SHA1-Digest: dF40OuZhot3b9owRk7bKktYH3Z4=
+
+Name: app/src/main/java/com/androlua/LuaBroadcastReceiver.java
+SHA1-Digest: K4VLRVb8aAFfoEQY0IqMUpOaLXw=
+
+Name: app/src/main/java/com/androlua/LuaCameraView.java
+SHA1-Digest: hb89lmCh/ETm1++DM+CYBnlMqYA=
+
+Name: app/src/main/java/com/androlua/LuaClient.java
+SHA1-Digest: iz2/zx6JJvLBTZSJftiFdelIfOQ=
+
+Name: app/src/main/java/com/androlua/LuaContentObserver.java
+SHA1-Digest: MCWqTqOiLtGRTMmS2/Gjx4le5Sc=
+
+Name: app/src/main/java/com/androlua/LuaContext.java
+SHA1-Digest: 1rQcl8LId5UFbbpu4Nrcnjc/Uwo=
+
+Name: app/src/main/java/com/androlua/LuaDexClassLoader.java
+SHA1-Digest: IxyBvozUgnLyzQYWLSP/kU3rl1Q=
+
+Name: app/src/main/java/com/androlua/LuaDexLoader.java
+SHA1-Digest: qI0PhbmuchF+ylpRhFQiM2GKRVQ=
+
+Name: app/src/main/java/com/androlua/LuaDialog.java
+SHA1-Digest: R5h5C5xeGUXM910uKpQ+Ez0lDiQ=
+
+Name: app/src/main/java/com/androlua/LuaDrawable.java
+SHA1-Digest: YIMVqvgI+/P3VzRPrDHGmpcRVMQ=
+
+Name: app/src/main/java/com/androlua/LuaEditor.java
+SHA1-Digest: gmWyhvzORbZqWHKBHfpzCV2Jh+c=
+
+Name: app/src/main/java/com/androlua/LuaEnhancer.java
+SHA1-Digest: x9X84UX1VVl40rM69200rAhkrs0=
+
+Name: app/src/main/java/com/androlua/LuaExAdapter.java
+SHA1-Digest: NKfAeBqBy9Y9bl9Faw3jyi30ef8=
+
+Name: app/src/main/java/com/androlua/LuaExpandableListAdapter.java
+SHA1-Digest: Hfj3wD7f4afXWcac5NeXtO4dpKo=
+
+Name: app/src/main/java/com/androlua/LuaFileObserver.java
+SHA1-Digest: 9/vECSWkQZUq9sC3DS3m/E1QY5w=
+
+Name: app/src/main/java/com/androlua/LuaFragment.java
+SHA1-Digest: GIXsvatxIsH4DgqgJS+glh9h7Zw=
+
+Name: app/src/main/java/com/androlua/LuaGcable.java
+SHA1-Digest: vp9JCNmKe+p9wQdeNw0lEBislZc=
+
+Name: app/src/main/java/com/androlua/LuaLexer.java
+SHA1-Digest: ZR7m+KmoZ1ygrv3sMRK5Gy8iayY=
+
+Name: app/src/main/java/com/androlua/LuaMultiAdapter.java
+SHA1-Digest: kEDmKF9hJ0E4AEHcsWCcRcVLdlA=
+
+Name: app/src/main/java/com/androlua/LuaPreferenceFragment.java
+SHA1-Digest: 8Bdu+JLT/skhbO/FxCGsAYuvbdQ=
+
+Name: app/src/main/java/com/androlua/LuaPrint.java
+SHA1-Digest: 5Ecugh7TgFCSpiR1b+XjhQs8TJk=
+
+Name: app/src/main/java/com/androlua/LuaResources.java
+SHA1-Digest: uggy67pZGqLFd03zRvOECht7Obs=
+
+Name: app/src/main/java/com/androlua/LuaRunnable.java
+SHA1-Digest: AAalfpXSmSygOG6HZjsGuQ9+AlM=
+
+Name: app/src/main/java/com/androlua/LuaServer.java
+SHA1-Digest: Q9quruM0F3wWGzNlV8YW6G7pSDY=
+
+Name: app/src/main/java/com/androlua/LuaService.java
+SHA1-Digest: ryUFO8bC/TTJUPpuyUTLlzttiSA=
+
+Name: app/src/main/java/com/androlua/LuaThread.java
+SHA1-Digest: tkHxMG9rdDJ1qGm9MXwL0Pj7/78=
+
+Name: app/src/main/java/com/androlua/LuaTimer.java
+SHA1-Digest: GtypYB9fJL44sZCCwDbQyLAQEQQ=
+
+Name: app/src/main/java/com/androlua/LuaTimerTask.java
+SHA1-Digest: VBB7UvR3c6IOtssBw1p5kvPzVec=
+
+Name: app/src/main/java/com/androlua/LuaTokenTypes.java
+SHA1-Digest: RymP9L9GFDWSRrhlX15mpb+x+4c=
+
+Name: app/src/main/java/com/androlua/LuaUtil.java
+SHA1-Digest: V+1Eq7uJfU37p4OMx0pWSJlyrC0=
+
+Name: app/src/main/java/com/androlua/LuaView.java
+SHA1-Digest: CIGFlzDjoLRMMisRN76Dl3aHhVU=
+
+Name: app/src/main/java/com/androlua/LuaWebView.java
+SHA1-Digest: Pokiv3gk8zXBy4GjRvNJlEh7VtE=
+
+Name: app/src/main/java/com/androlua/Main.java
+SHA1-Digest: lNHJwHMpFZ69T9kEXMWbqQ4+ctE=
+
+Name: app/src/main/java/com/androlua/NineBitmapDrawable.java
+SHA1-Digest: iyzJX+a66T4Y6SemhS8m77R/YeY=
+
+Name: app/src/main/java/com/androlua/Ticker.java
+SHA1-Digest: chZVJxSWiUScW8Zk1yLGyBGM9m8=
+
+Name: app/src/main/java/com/androlua/Welcome.java
+SHA1-Digest: c/4tY65N2ZeDQmU9YmD40iA8igs=
+
+Name: app/src/main/java/com/androlua/ZipUtil.java
+SHA1-Digest: C1T80PcCod8sO6NlWuLGUK7VXoE=
+
+Name: app/src/main/java/com/androlua/util/AsyncTaskX.java
+SHA1-Digest: T+o7YyPxibxfrEcmjAVvknMNWTI=
+
+Name: app/src/main/java/com/androlua/util/ClickRunnable.java
+SHA1-Digest: SYLMKMOzWiR4TCqYCFudEbQPoZU=
+
+Name: app/src/main/java/com/androlua/util/GlobalActionAutomator.java
+SHA1-Digest: him993hpIrbzS5DXLTZ/aZyylsw=
+
+Name: app/src/main/java/com/androlua/util/RSASecurity.java
+SHA1-Digest: moWBxvBRFY6MnzGF7Gwcfpcq4H8=
+
+Name: app/src/main/java/com/androlua/util/RootUtil.java
+SHA1-Digest: llLXV7m9EBgzD3IRJqrG0E3KUg0=
+
+Name: app/src/main/java/com/androlua/util/ScreenMetrics.java
+SHA1-Digest: AHDrD9mlBOSa+zJfw0c7YLL9dcg=
+
+Name: app/src/main/java/com/androlua/util/TimerTaskX.java
+SHA1-Digest: vf8ixWYTprRWZQxVi0Vd23BB/60=
+
+Name: app/src/main/java/com/androlua/util/TimerX.java
+SHA1-Digest: 5Au6yI+c6sUrj/fOdeoaPID9IkA=
+
+Name: app/src/main/java/com/androlua/util/VolatileBox.java
+SHA1-Digest: LmL+AIOhHC1dsnQzctv5/2GZxPs=
+
+Name: app/src/main/java/com/androlua/util/VolatileDispose.java
+SHA1-Digest: ikIJBoP0Zhnv/gujPJQ4aFf79js=
+
+Name: app/src/main/java/com/androlua/util/ZipUtil.java
+SHA1-Digest: e7ICMO9OVDIKfdPQboMlVeaIook=
+
+Name: app/src/main/java/com/luajava/Console.java
+SHA1-Digest: UsUYjzE2QesOzCav/rFFb8z/Axw=
+
+Name: app/src/main/java/com/luajava/JavaFunction.java
+SHA1-Digest: H9rCaUdHL6alokMRHFQaN6vG4Dk=
+
+Name: app/src/main/java/com/luajava/LuaAbstractMethodInterceptor.java
+SHA1-Digest: QPiaSCjw/03g/1URoJXSy72YMXg=
+
+Name: app/src/main/java/com/luajava/LuaException.java
+SHA1-Digest: L9JSpE/alm4JMvQs1ZCATngvlA0=
+
+Name: app/src/main/java/com/luajava/LuaFunction.java
+SHA1-Digest: ACWEGcqJcosjiVnluEzT7keLJ/A=
+
+Name: app/src/main/java/com/luajava/LuaInvocationHandler.java
+SHA1-Digest: dGoOQOEICw+vwse7KKl1UQN0EKM=
+
+Name: app/src/main/java/com/luajava/LuaJavaAPI.java
+SHA1-Digest: wWj91hSmxlGEbL2Gz1vh/My+Sgw=
+
+Name: app/src/main/java/com/luajava/LuaList.java
+SHA1-Digest: 6DLjXcm5aDYe5wZBDOnkF9hlJcA=
+
+Name: app/src/main/java/com/luajava/LuaMetaTable.java
+SHA1-Digest: oGL7MavLiy7aacWFmH2PDsk4Chc=
+
+Name: app/src/main/java/com/luajava/LuaMethodInterceptor.java
+SHA1-Digest: qDNRBmUmi5GGKwA1pg+FnhkoEFo=
+
+Name: app/src/main/java/com/luajava/LuaObject.java
+SHA1-Digest: BN6O6thC4V4UsPfmlrKEsf8Wlkc=
+
+Name: app/src/main/java/com/luajava/LuaStack.java
+SHA1-Digest: k6wyyPGTpspwlOMu236vAFD8UXg=
+
+Name: app/src/main/java/com/luajava/LuaState.java
+SHA1-Digest: nc3vfayuOT/CBuVoYwcGuGQbba4=
+
+Name: app/src/main/java/com/luajava/LuaStateFactory.java
+SHA1-Digest: SGrEQOESQXnuGtOA5MOf/jdDp38=
+
+Name: app/src/main/java/com/luajava/LuaString.java
+SHA1-Digest: R31FCpjmPfc/d5isiny+BkOEkaE=
+
+Name: app/src/main/java/com/luajava/LuaTable.java
+SHA1-Digest: nP5ZYOmHDBBTksNHC6WbnOS6HTU=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/AutoCompl
+ etePanel.java
+SHA1-Digest: T/YtXJL2uXk0u5UAAPznDa2LIOc=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/Clipboard
+ Panel.java
+SHA1-Digest: podsgWBp/fM7wvn0hQn/97LUihs=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/FreeScrol
+ lingTextField.java
+SHA1-Digest: AVhXFUIq9ih+VuB+oBLsC88/rDo=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/KeysInter
+ preter.java
+SHA1-Digest: pCSqF+ftCI8qc8tKjLNnIDfeHrE=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/OnSelecti
+ onChangedListener.java
+SHA1-Digest: IVgg1e+MkA+qikd8ti0NtdoOgNY=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/TextChang
+ eListener.java
+SHA1-Digest: uVh1eymrU++pnt/pWrfkDA7a534=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/TouchNavi
+ gationMethod.java
+SHA1-Digest: VQw+/Dfz4+MCtFkMnEVucytNXu0=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/TrackpadN
+ avigationMethod.java
+SHA1-Digest: NtVvqiNEoAVzHEHkK6OS6rxiVFE=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/android/YoyoNavig
+ ationMethod.java
+SHA1-Digest: thoPm+ZmbO/To6RkSqat0Mkxs5I=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/AutoComple
+ te.java
+SHA1-Digest: uJt3IEFEvhNpjJChq70fXnl74CA=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/AutoIndent
+ .java
+SHA1-Digest: Z6HmHhkg3JeYSdhBV6oeEVpxUl8=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/ColorSchem
+ e.java
+SHA1-Digest: BQDh7nG+wKrwFzvysXB+08cwbVk=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/ColorSchem
+ eDark.java
+SHA1-Digest: D0LaiDxsHtFCpw2yLyboyvjnufE=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/ColorSchem
+ eLight.java
+SHA1-Digest: 37vLWjjdP1ENse7uRVH7scJxfsM=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/Document.j
+ ava
+SHA1-Digest: eY/t8DjtH/V2WlxuMNZt68rSoMk=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/DocumentPr
+ ovider.java
+SHA1-Digest: dZ5tNY6JWoFL15Xd6owgZn144k8=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/Flag.java
+SHA1-Digest: CXrriNhye2FDB5DesbCefImF7wE=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/Language.j
+ ava
+SHA1-Digest: RTcc3pjAmY4XstnvKvVKsbL1Ln4=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/LanguageC.
+ java
+SHA1-Digest: tOnXZdG185Gz/VJ+MYpSUgv2wq4=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/LanguageLu
+ a.java
+SHA1-Digest: tzpxthHnxACxpb1/a0GpZz8BdzU=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/LanguageNo
+ nProg.java
+SHA1-Digest: 1Ex6xZlhX+lgMCC7DMvNugYZhIQ=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/Lexer.java
+SHA1-Digest: 8KXz6Xqj9dvVO0X646x6zPGz6gI=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/LinearSear
+ chStrategy.java
+SHA1-Digest: PvLTo9s3fjla6Sb3TYyRIl8ke+I=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/Pair.java
+SHA1-Digest: jgkXxxcaCzmKINZecp9lYSFxeUA=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/ReadTask.j
+ ava
+SHA1-Digest: P3xSW8YvEe7yWiDk9sZEmN7+gfU=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/RowListene
+ r.java
+SHA1-Digest: 96j+YyTa2R4C+fby0L3ubleQsIA=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/SearchStra
+ tegy.java
+SHA1-Digest: Ns6/xaiR8P7Kvd8nu1OJtmfyV5s=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/TextBuffer
+ .java
+SHA1-Digest: A+z9NDiH1EWlu1WtOiH2B6Bb9Qc=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/TextBuffer
+ Cache.java
+SHA1-Digest: oQimCF0XnCNirfrBvwt48WS5qig=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/TextWarrio
+ rException.java
+SHA1-Digest: EfYUTNw31wc65BIzfnbq5XI6i1g=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/UndoStack.
+ java
+SHA1-Digest: 23qXHY7H7MBpq1ftft+JYqrRk3g=
+
+Name: app/src/main/java/com/myopicmobile/textwarrior/common/WriteTask.
+ java
+SHA1-Digest: Fw19jEw1/qADELeI7jzW4pnkDxY=
+
+Name: app/src/main/java/com/nirenr/Color.java
+SHA1-Digest: CgTuzqZtK9LmG+QTcfX5wJnBH/Q=
+
+Name: app/src/main/java/com/nirenr/ColorFinder.java
+SHA1-Digest: a63sPDjUN/FgZt1c2CQHSCaDqU4=
+
+Name: app/src/main/java/com/nirenr/ColorPoint.java
+SHA1-Digest: TK886u3Qr4e+03qibzdU2ayU/GM=
+
+Name: app/src/main/java/com/nirenr/Point.java
+SHA1-Digest: gSoOYBysPkdYXmXGE3IP7/3iGrY=
+
+Name: app/src/main/java/com/nirenr/SplitEditView.java
+SHA1-Digest: bR5qxSSpqhwhhoiWzo+xHhdUnGQ=
+
+Name: app/src/main/java/com/nirenr/screencapture/FileUtil.java
+SHA1-Digest: gjpCRBelLv9qQ6eAq6xHFJY4MbA=
+
+Name: app/src/main/java/com/nirenr/screencapture/ScreenCaptureActivity
+ .java
+SHA1-Digest: Ss/0E7tH1BMC3UJJS0FMhOvsusQ=
+
+Name: app/src/main/java/com/nirenr/screencapture/ScreenCaptureListener
+ .java
+SHA1-Digest: Gz3HEq7e/08Zyi40dQpWtmV/bTU=
+
+Name: app/src/main/java/com/nirenr/screencapture/ScreenShot.java
+SHA1-Digest: mY3TtieinkI+SzRCN/iQQ+e/HCA=
+
+Name: app/src/main/jni/Android.mk
+SHA1-Digest: YGmek5LIknuLFqho4lNGQmJjMKQ=
+
+Name: app/src/main/jni/Application.mk
+SHA1-Digest: jx6z/HCDp9rgFeVR82bLbE6Psv4=
+
+Name: app/src/main/jni/bson/Android.mk
+SHA1-Digest: A45/scIiL8CZm+yehrHSJwIyPDo=
+
+Name: app/src/main/jni/bson/lua-bson.c
+SHA1-Digest: SpUfihhAYqDe3J/qOraNu7UqebI=
+
+Name: app/src/main/jni/canvas/Android.mk
+SHA1-Digest: BQu58avIMyhl/3R1Io+2nCASvqg=
+
+Name: app/src/main/jni/canvas/canvas.c
+SHA1-Digest: rJlV1da0hcgxTDNvtUwZpm9wf20=
+
+Name: app/src/main/jni/cjson/Android.mk
+SHA1-Digest: xEPQDvxEISIZEAlxml8Paa6+ehc=
+
+Name: app/src/main/jni/cjson/fpconv.c
+SHA1-Digest: DV6JE57BICDMzymHqj5wMJ4OwPg=
+
+Name: app/src/main/jni/cjson/fpconv.h
+SHA1-Digest: kP2zGq8ddorL2hTB3twzQTMYalY=
+
+Name: app/src/main/jni/cjson/lua_cjson.c
+SHA1-Digest: oD0IrnT1dVapA3HNaNQHybd73Zc=
+
+Name: app/src/main/jni/cjson/strbuf.c
+SHA1-Digest: R5geR80H+K5tMUeiDGSAFFWse6g=
+
+Name: app/src/main/jni/cjson/strbuf.h
+SHA1-Digest: 5LzpGsQgq5hiRH0mc5ixN4IKpmM=
+
+Name: app/src/main/jni/crypt/Android.mk
+SHA1-Digest: 5BYdlk1+VQcjqKgfLRbgfP9d9t0=
+
+Name: app/src/main/jni/crypt/lcrypt.c
+SHA1-Digest: SIKZka6UnuOCUMpveRqR4iA9EeU=
+
+Name: app/src/main/jni/crypt/lcrypt.h
+SHA1-Digest: MdhfehO8y5uxflJSpTEqusgnjTo=
+
+Name: app/src/main/jni/crypt/lsha1.c
+SHA1-Digest: oIMpUXyHfa9GEh0c/yM2XyJ+UlY=
+
+Name: app/src/main/jni/lfs/.gitignore
+SHA1-Digest: 8WcUiKPUg5osEL5KcBgrTGnZ8xI=
+
+Name: app/src/main/jni/lfs/lfs.c
+SHA1-Digest: PohLH/Yi0qIv8RyxFehildBNK34=
+
+Name: app/src/main/jni/lfs/lfs.def
+SHA1-Digest: TuKddWIAEDKj0UB/r1rzjQTqLeg=
+
+Name: app/src/main/jni/lfs/lfs.h
+SHA1-Digest: ur8rIxP3RbRt/C7GIcQVhLSQT3M=
+
+Name: app/src/main/jni/lluv/Android.mk2
+SHA1-Digest: YvOgS02+uYnARdlJzUnHCNMn7wk=
+
+Name: app/src/main/jni/lluv/include/uv.h
+SHA1-Digest: PeZPfgSgA5fx9Iu53awh4ErHv/c=
+
+Name: app/src/main/jni/lluv/include/uv/aix.h
+SHA1-Digest: nwHp4sygMntVGkvht/IV7HjfO30=
+
+Name: app/src/main/jni/lluv/include/uv/android-ifaddrs.h
+SHA1-Digest: qmUTqZ8g35unOy8awI+klwKWzHU=
+
+Name: app/src/main/jni/lluv/include/uv/bsd.h
+SHA1-Digest: ekZvhtbakXURaUsI6iG3fmuofio=
+
+Name: app/src/main/jni/lluv/include/uv/darwin.h
+SHA1-Digest: deU78SEGAdDe+OGjq0PiVYdjGh4=
+
+Name: app/src/main/jni/lluv/include/uv/errno.h
+SHA1-Digest: K/KUpNSk2pufDgpQTKreUtaufW0=
+
+Name: app/src/main/jni/lluv/include/uv/linux.h
+SHA1-Digest: /mYUdoZQz9mg5Nrib3v8J9nQk4c=
+
+Name: app/src/main/jni/lluv/include/uv/os390.h
+SHA1-Digest: r5kGC9c76xeCTbkh6mSx9lANPiI=
+
+Name: app/src/main/jni/lluv/include/uv/posix.h
+SHA1-Digest: WM7VlRAIR21SH5UjBkwIZ6D/G4c=
+
+Name: app/src/main/jni/lluv/include/uv/pthread-barrier.h
+SHA1-Digest: Ih1A//bfSLzTnGmB1g2E5IRJglk=
+
+Name: app/src/main/jni/lluv/include/uv/stdint-msvc2008.h
+SHA1-Digest: GftwFZzSCqzn5/mRLtbpZc+kvGA=
+
+Name: app/src/main/jni/lluv/include/uv/sunos.h
+SHA1-Digest: O3zxByDvsWCFz3tCE3aPRdRi1NQ=
+
+Name: app/src/main/jni/lluv/include/uv/threadpool.h
+SHA1-Digest: KXZeLnn92YulC8CMrpHOJ2ZRRmM=
+
+Name: app/src/main/jni/lluv/include/uv/tree.h
+SHA1-Digest: spSgaHY4ZizvD/TVXu5yK7IXOJo=
+
+Name: app/src/main/jni/lluv/include/uv/unix.h
+SHA1-Digest: ww0WGUxwRp5K3iYB6qedRio+XFs=
+
+Name: app/src/main/jni/lluv/include/uv/version.h
+SHA1-Digest: HsSLxTSR86+kQGL+iORaR7QtYt8=
+
+Name: app/src/main/jni/lluv/include/uv/win.h
+SHA1-Digest: xtCPLsn9RKQ2lj+ppkeZwdhM4/4=
+
+Name: app/src/main/jni/lluv/lluv/l52util.c
+SHA1-Digest: jXjp1cw9Nlsd3hisIDplKaFRj70=
+
+Name: app/src/main/jni/lluv/lluv/l52util.h
+SHA1-Digest: O+sVeOrYNAtiOFj4leQ+/Tw6El4=
+
+Name: app/src/main/jni/lluv/lluv/lluv.c
+SHA1-Digest: iykg8jNb/0DwKyhhFxGqLJWrnLM=
+
+Name: app/src/main/jni/lluv/lluv/lluv.h
+SHA1-Digest: mOi2V5ir67W0GPOWA9czN7iTHDw=
+
+Name: app/src/main/jni/lluv/lluv/lluv_check.c
+SHA1-Digest: EowRjDNb0oheHJXCCmAqrfwEKVY=
+
+Name: app/src/main/jni/lluv/lluv/lluv_check.h
+SHA1-Digest: IOG/zsRM0xVAnvA6LIVww4MfX7s=
+
+Name: app/src/main/jni/lluv/lluv/lluv_dns.c
+SHA1-Digest: pfroH8hxU9126sl40mcvz0KAgew=
+
+Name: app/src/main/jni/lluv/lluv/lluv_dns.h
+SHA1-Digest: Lg2kDq30RfjKGWMxzykHBQIAQQo=
+
+Name: app/src/main/jni/lluv/lluv/lluv_error.c
+SHA1-Digest: E3blCdmCd1Ai7RUx4JWA3ic1OKI=
+
+Name: app/src/main/jni/lluv/lluv/lluv_error.h
+SHA1-Digest: yTib9KDZ/yW1SkpgJNcedReaazQ=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fbuf.c
+SHA1-Digest: /d2ANqtmBK419s+1Ri99OOsqGo0=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fbuf.h
+SHA1-Digest: Dnul38bTcQOq5MiEWLt/Wyy7QLA=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fs.c
+SHA1-Digest: iMfnvvYuJWohpN2Iif37TR5Yzsg=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fs.h
+SHA1-Digest: KfMkBKDIk73Sa6Vy0CIDCvE2Yc4=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fs_event.c
+SHA1-Digest: ZODQ2vYkHnaEcr+FMKVrVJUKo9M=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fs_event.h
+SHA1-Digest: u5QyM5L3wTVBE3l2KWDnEsNBDww=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fs_poll.c
+SHA1-Digest: DDIz3SEyndTd84SFiUZEh7xk1cc=
+
+Name: app/src/main/jni/lluv/lluv/lluv_fs_poll.h
+SHA1-Digest: FLm+Qf9L8FzH/6P4T5v6cpC/SxM=
+
+Name: app/src/main/jni/lluv/lluv/lluv_handle.c
+SHA1-Digest: Do/HGCIBxhkBZCqMWtyHptVg7UE=
+
+Name: app/src/main/jni/lluv/lluv/lluv_handle.h
+SHA1-Digest: b6UTvWL47ordcEMcLBRPDQbIP6M=
+
+Name: app/src/main/jni/lluv/lluv/lluv_idle.c
+SHA1-Digest: og91pmgarJcdaqEcZimpou4L6fo=
+
+Name: app/src/main/jni/lluv/lluv/lluv_idle.h
+SHA1-Digest: jeDitVbDl41IMd+aE9oTfDWLBa0=
+
+Name: app/src/main/jni/lluv/lluv/lluv_list.c
+SHA1-Digest: ueeV5MdtkUq+Qe0avq6+N70sfcc=
+
+Name: app/src/main/jni/lluv/lluv/lluv_list.h
+SHA1-Digest: 1oPV1yJy49Rm2J/uwqNl+9w8Z8E=
+
+Name: app/src/main/jni/lluv/lluv/lluv_loop.c
+SHA1-Digest: Fpobqgj8tMxVfVIwnphTLFM4/gg=
+
+Name: app/src/main/jni/lluv/lluv/lluv_loop.h
+SHA1-Digest: pytfMiCN86jBmzarieaBZs5NH/k=
+
+Name: app/src/main/jni/lluv/lluv/lluv_misc.c
+SHA1-Digest: g2b4DSU3JEYbo8QI0MPqi+RVzVM=
+
+Name: app/src/main/jni/lluv/lluv/lluv_misc.h
+SHA1-Digest: SPUJeBGzwCVuNyRaD5ijwS26CMY=
+
+Name: app/src/main/jni/lluv/lluv/lluv_pipe.c
+SHA1-Digest: 3+pICxlEnjwnmYIhQ9ByobMj/DA=
+
+Name: app/src/main/jni/lluv/lluv/lluv_pipe.h
+SHA1-Digest: iq5110EZf8rT0wYtXr5IvVE1UEI=
+
+Name: app/src/main/jni/lluv/lluv/lluv_poll.c
+SHA1-Digest: qBZIk9fMEysglpZUuh04YQJbu48=
+
+Name: app/src/main/jni/lluv/lluv/lluv_poll.h
+SHA1-Digest: pYqwq+yR8+izSPF7hGGjrDBbLOA=
+
+Name: app/src/main/jni/lluv/lluv/lluv_prepare.c
+SHA1-Digest: G8pUCwXGABw4es+Rg1FTl5Yvvrk=
+
+Name: app/src/main/jni/lluv/lluv/lluv_prepare.h
+SHA1-Digest: Pzq8lUK4wKtc9p0cFAOzc8axGw4=
+
+Name: app/src/main/jni/lluv/lluv/lluv_process.c
+SHA1-Digest: SeJZb+mUDCTcLwZ26zKMlISalos=
+
+Name: app/src/main/jni/lluv/lluv/lluv_process.h
+SHA1-Digest: XPVvt+yHGl5r/L3svXZ6z5Cl9b8=
+
+Name: app/src/main/jni/lluv/lluv/lluv_req.c
+SHA1-Digest: CtLVhvqOzc9geM39aifzl4D234I=
+
+Name: app/src/main/jni/lluv/lluv/lluv_req.h
+SHA1-Digest: zIR3NIWPNX6Twhnl7lbvQa7iaG0=
+
+Name: app/src/main/jni/lluv/lluv/lluv_signal.c
+SHA1-Digest: C6VSAObk56bOYcAZFNekZGEsCV8=
+
+Name: app/src/main/jni/lluv/lluv/lluv_signal.h
+SHA1-Digest: t1ISKTuyL7rpEiqHvxLGDndmYsU=
+
+Name: app/src/main/jni/lluv/lluv/lluv_stream.c
+SHA1-Digest: QQQFpxcgfwUdZG860JUks5tlLAw=
+
+Name: app/src/main/jni/lluv/lluv/lluv_stream.h
+SHA1-Digest: f2l7NjSYJGzyWWhaGA/KF4LxVtY=
+
+Name: app/src/main/jni/lluv/lluv/lluv_tcp.c
+SHA1-Digest: 0QQhvS5VudVs/3cgIMhsR5vGWSc=
+
+Name: app/src/main/jni/lluv/lluv/lluv_tcp.h
+SHA1-Digest: 07LbkFunTqFCyjfMDcEECxqgK6U=
+
+Name: app/src/main/jni/lluv/lluv/lluv_timer.c
+SHA1-Digest: Dqxq4JC2cF2eRt56vowFLBOPsnU=
+
+Name: app/src/main/jni/lluv/lluv/lluv_timer.h
+SHA1-Digest: 4kXXJzslNDLO5NdANGKMw94cnXQ=
+
+Name: app/src/main/jni/lluv/lluv/lluv_tty.c
+SHA1-Digest: iYK0+L2kcN1MlkCCnSA+2iN6fj4=
+
+Name: app/src/main/jni/lluv/lluv/lluv_tty.h
+SHA1-Digest: aHL+W4nZpNdynu3k/fo3rENI2O0=
+
+Name: app/src/main/jni/lluv/lluv/lluv_udp.c
+SHA1-Digest: vIPa/V5PKkZEvEeQOIegtA73+Mo=
+
+Name: app/src/main/jni/lluv/lluv/lluv_udp.h
+SHA1-Digest: kn5TKTfobNIaiGni+jyjLyx28nk=
+
+Name: app/src/main/jni/lluv/lluv/lluv_utils.c
+SHA1-Digest: WwF6Iu/YvHqM9Ne14ROo1DxOBfs=
+
+Name: app/src/main/jni/lluv/lluv/lluv_utils.h
+SHA1-Digest: BnyD/Y2gNCJhnWuQnP2Pxsf8LN4=
+
+Name: app/src/main/jni/lluv/uv/fs-poll.c
+SHA1-Digest: FNzeOGr+f7byuKREvn2ERqJ1bsY=
+
+Name: app/src/main/jni/lluv/uv/heap-inl.h
+SHA1-Digest: RRZmsq+YRwBMRlwyTIHCe2HHHAk=
+
+Name: app/src/main/jni/lluv/uv/inet.c
+SHA1-Digest: 2pxgUSs8qIX8NI6Roh9/u3oM7q0=
+
+Name: app/src/main/jni/lluv/uv/queue.h
+SHA1-Digest: Ey56OI7po7SusuSxrbj0pcwYSNg=
+
+Name: app/src/main/jni/lluv/uv/threadpool.c
+SHA1-Digest: E8SrzLdKPt7ZzDHPhy+L4hbGuLI=
+
+Name: app/src/main/jni/lluv/uv/timer.c
+SHA1-Digest: gDf/bwqDZfn4/EXCpmpNozQ863o=
+
+Name: app/src/main/jni/lluv/uv/unix/aix-common.c
+SHA1-Digest: ud8xNkTMU/6EXHTmvYY4RCE+9p4=
+
+Name: app/src/main/jni/lluv/uv/unix/aix.c
+SHA1-Digest: YGM0a+rZja8sp8EUNytOE8ZV4hs=
+
+Name: app/src/main/jni/lluv/uv/unix/android-ifaddrs.c
+SHA1-Digest: jDAm9WXNfzLvIF4GkJiHn/dYrAY=
+
+Name: app/src/main/jni/lluv/uv/unix/async.c
+SHA1-Digest: etwq6GqJ1G6J9zsOi8XHyACeFKA=
+
+Name: app/src/main/jni/lluv/uv/unix/atomic-ops.h
+SHA1-Digest: oeXL9fUN3mQSJay6MJifPJn9SpY=
+
+Name: app/src/main/jni/lluv/uv/unix/bsd-ifaddrs.c
+SHA1-Digest: U4wG83g/8LcPwvEK4bFgiSmMgsc=
+
+Name: app/src/main/jni/lluv/uv/unix/core.c
+SHA1-Digest: HCtExJ0SQEzO09szHmXvFOl2Ph0=
+
+Name: app/src/main/jni/lluv/uv/unix/cygwin.c
+SHA1-Digest: ibwCnNHe6vVeohsMEBKVpCUSHB8=
+
+Name: app/src/main/jni/lluv/uv/unix/darwin-proctitle.c
+SHA1-Digest: SMIMMUoXbVwUNjKB+XkGAx6gCi8=
+
+Name: app/src/main/jni/lluv/uv/unix/darwin.c
+SHA1-Digest: Lfjli2whgijEiMx7OeAgnhdp8Zk=
+
+Name: app/src/main/jni/lluv/uv/unix/dl.c
+SHA1-Digest: sejT+cUTMkSyGxn+ua3h2DQNkrQ=
+
+Name: app/src/main/jni/lluv/uv/unix/freebsd.c
+SHA1-Digest: b238gc6FnJm+gktRrqBDCpjheP4=
+
+Name: app/src/main/jni/lluv/uv/unix/fs.c
+SHA1-Digest: 4JLmeT/057r82bX+gm1SWllabDU=
+
+Name: app/src/main/jni/lluv/uv/unix/fsevents.c
+SHA1-Digest: DMj1t+QxW5AEWGC0tcTOPFQW+kQ=
+
+Name: app/src/main/jni/lluv/uv/unix/getaddrinfo.c
+SHA1-Digest: 2R+HG6+A4NCLOHmAjvD1LPW51iE=
+
+Name: app/src/main/jni/lluv/uv/unix/getnameinfo.c
+SHA1-Digest: n7INNVORPfIkeWXQyqAtLKgEMp0=
+
+Name: app/src/main/jni/lluv/uv/unix/ibmi.c
+SHA1-Digest: m2JZeG3oO8Ix/L3fsOcECC35w1k=
+
+Name: app/src/main/jni/lluv/uv/unix/internal.h
+SHA1-Digest: 79I6xk6ezD2+XgvQYu0vVN7yMOc=
+
+Name: app/src/main/jni/lluv/uv/unix/kqueue.c
+SHA1-Digest: fcGWmPb0O5zpqg3EtNEmv08VdBk=
+
+Name: app/src/main/jni/lluv/uv/unix/linux-core.c
+SHA1-Digest: WnZsU9PsZEXnD6OxuGjQJfK624Y=
+
+Name: app/src/main/jni/lluv/uv/unix/linux-inotify.c
+SHA1-Digest: ddgskFKGwi/wlSMPsBH5BkdJwpE=
+
+Name: app/src/main/jni/lluv/uv/unix/linux-syscalls.c
+SHA1-Digest: TpdW1N1qCEiw7/dqke/Elv7Yx/A=
+
+Name: app/src/main/jni/lluv/uv/unix/linux-syscalls.h
+SHA1-Digest: +etSmD6W8/Dr0aYgf+kq3NUylN8=
+
+Name: app/src/main/jni/lluv/uv/unix/loop-watcher.c
+SHA1-Digest: ZcbA8xQ7fkAZuB41c+YbbxOYbIM=
+
+Name: app/src/main/jni/lluv/uv/unix/loop.c
+SHA1-Digest: BUj3FZ9zqt729XqF0wSQyUIR5Go=
+
+Name: app/src/main/jni/lluv/uv/unix/netbsd.c
+SHA1-Digest: 0mP5vZFiE43mBitXI/7Gh8wGI+Y=
+
+Name: app/src/main/jni/lluv/uv/unix/no-fsevents.c
+SHA1-Digest: O21LkN+PQbMkYPdqHgrEB92TggE=
+
+Name: app/src/main/jni/lluv/uv/unix/no-proctitle.c
+SHA1-Digest: 1sO7IsQbUqm4linxF68yNWqlV9g=
+
+Name: app/src/main/jni/lluv/uv/unix/openbsd.c
+SHA1-Digest: oIzGaZr5miiHtFU+BUY6gKMFr7s=
+
+Name: app/src/main/jni/lluv/uv/unix/os390-syscalls.c
+SHA1-Digest: SHIK6reJhUsZQmsJYW3AwGDlFTs=
+
+Name: app/src/main/jni/lluv/uv/unix/os390-syscalls.h
+SHA1-Digest: zWMeToBkA00QIwJdV0eZ7ktvO84=
+
+Name: app/src/main/jni/lluv/uv/unix/os390.c
+SHA1-Digest: v6JdQsowcCH4Vj8iAL7l00Q7WaI=
+
+Name: app/src/main/jni/lluv/uv/unix/pipe.c
+SHA1-Digest: 1iE09IriLYhmkcMQKkSkgYXtYRE=
+
+Name: app/src/main/jni/lluv/uv/unix/poll.c
+SHA1-Digest: IMleu7WPyl55AUYP1btHoFxUW4w=
+
+Name: app/src/main/jni/lluv/uv/unix/posix-hrtime.c
+SHA1-Digest: zj1c6DlnuoxpFsJgPvohAzHsP7k=
+
+Name: app/src/main/jni/lluv/uv/unix/posix-poll.c
+SHA1-Digest: 0eVtLw8CbQYJcpGpKoNnl24hocs=
+
+Name: app/src/main/jni/lluv/uv/unix/process.c
+SHA1-Digest: YY8O0GUvANCImWhb+9DCaSR+uHY=
+
+Name: app/src/main/jni/lluv/uv/unix/procfs-exepath.c
+SHA1-Digest: Lhy0xO0PFqELdU9ug1bG/f/bXpo=
+
+Name: app/src/main/jni/lluv/uv/unix/proctitle.c
+SHA1-Digest: /qQfy9hCE8vV+LaZh+43JoRv7yQ=
+
+Name: app/src/main/jni/lluv/uv/unix/pthread-fixes.c
+SHA1-Digest: +vFfC46GvlMiGt/2xI4JN1a1TM0=
+
+Name: app/src/main/jni/lluv/uv/unix/signal.c
+SHA1-Digest: azlVNUJgfLyDTZRJoHrCdnZDO+A=
+
+Name: app/src/main/jni/lluv/uv/unix/spinlock.h
+SHA1-Digest: lktCzRWLERVJECncjEUN08injHM=
+
+Name: app/src/main/jni/lluv/uv/unix/stream.c
+SHA1-Digest: GTpmwzEbn3ak8b3MhyxhlMUBWLs=
+
+Name: app/src/main/jni/lluv/uv/unix/sunos.c
+SHA1-Digest: XN4ZQI15pMxEBSIunSVQdu3MuCI=
+
+Name: app/src/main/jni/lluv/uv/unix/sysinfo-loadavg.c
+SHA1-Digest: MTpjqN821AcvMaxKu3weNRVtViA=
+
+Name: app/src/main/jni/lluv/uv/unix/sysinfo-memory.c
+SHA1-Digest: krktfQ5JK2DMsfMEgfVmsh9tLwo=
+
+Name: app/src/main/jni/lluv/uv/unix/tcp.c
+SHA1-Digest: OzgpUIvQ34FYD5I3r978CGJW4yo=
+
+Name: app/src/main/jni/lluv/uv/unix/thread.c
+SHA1-Digest: w7qbN5T5z/7h8/sFSlMRmI4sHrU=
+
+Name: app/src/main/jni/lluv/uv/unix/tty.c
+SHA1-Digest: YYI6gI+3cCz5gimfGMbgZJnHhPA=
+
+Name: app/src/main/jni/lluv/uv/unix/udp.c
+SHA1-Digest: e9ZcwyDNBdCUhDQ6H2JDE6iaPmI=
+
+Name: app/src/main/jni/lluv/uv/uv-common.c
+SHA1-Digest: Eu3rSEGWRlj/sTUM4sKqlYgToNo=
+
+Name: app/src/main/jni/lluv/uv/uv-common.h
+SHA1-Digest: rK159dYsh+ZPz0hDVBoDleA8NZQ=
+
+Name: app/src/main/jni/lluv/uv/uv-data-getter-setters.c
+SHA1-Digest: rC4YnCc6t58pZ1hxhcj8EIYZ1Yg=
+
+Name: app/src/main/jni/lluv/uv/version.c
+SHA1-Digest: Zlr+73ueN3FJus/jgf0TXIKHXqc=
+
+Name: app/src/main/jni/lluv/uv/win/async.c
+SHA1-Digest: p+O9TZs3Tfd/ivr8KtImDRsXF14=
+
+Name: app/src/main/jni/lluv/uv/win/atomicops-inl.h
+SHA1-Digest: u5YFIN0aAn+kiCRc75YGCgCRrOE=
+
+Name: app/src/main/jni/lluv/uv/win/core.c
+SHA1-Digest: RRKBpDwLtmjquyvFNe/DxG0vCjQ=
+
+Name: app/src/main/jni/lluv/uv/win/detect-wakeup.c
+SHA1-Digest: oXAoUtCb0rj3gM3oSVWdcnHxfn8=
+
+Name: app/src/main/jni/lluv/uv/win/dl.c
+SHA1-Digest: Oh+DXBuC6TGBN52elGJAHb66wSA=
+
+Name: app/src/main/jni/lluv/uv/win/error.c
+SHA1-Digest: qtyII0RnEFqS6A8rirmFPN+hcLc=
+
+Name: app/src/main/jni/lluv/uv/win/fs-event.c
+SHA1-Digest: qHTM8Yp5jqY7dolGFB+UlPH8agE=
+
+Name: app/src/main/jni/lluv/uv/win/fs.c
+SHA1-Digest: N5QLtRHBUToCaUU8IwpsVyz9TUM=
+
+Name: app/src/main/jni/lluv/uv/win/getaddrinfo.c
+SHA1-Digest: pctVBlYQihOrXJplXC4OzFr49OQ=
+
+Name: app/src/main/jni/lluv/uv/win/getnameinfo.c
+SHA1-Digest: LdTK8ZATFrmy1CuZ98k0fC3FMZ4=
+
+Name: app/src/main/jni/lluv/uv/win/handle-inl.h
+SHA1-Digest: p0IjaE0PImQ4aSc6Te2+dyAUGKE=
+
+Name: app/src/main/jni/lluv/uv/win/handle.c
+SHA1-Digest: d8aI1pbqto4Mx5gndkmm6ST2OGc=
+
+Name: app/src/main/jni/lluv/uv/win/internal.h
+SHA1-Digest: J2SnAfcRiNPP2retov6PWxcmslA=
+
+Name: app/src/main/jni/lluv/uv/win/loop-watcher.c
+SHA1-Digest: sD5j9nYXqh2xQN9zniJdA463xhk=
+
+Name: app/src/main/jni/lluv/uv/win/pipe.c
+SHA1-Digest: BYRjr6GrPqJm/R3Xcgsbjx5QfnY=
+
+Name: app/src/main/jni/lluv/uv/win/poll.c
+SHA1-Digest: LZ7ueJBMkkWaZLaA0ZwHelxjLBY=
+
+Name: app/src/main/jni/lluv/uv/win/process-stdio.c
+SHA1-Digest: 09qTk49f41rSKe2wMSjZak7Y9FQ=
+
+Name: app/src/main/jni/lluv/uv/win/process.c
+SHA1-Digest: ctVpI8rFpjB0dkRd1lKaKBE2qos=
+
+Name: app/src/main/jni/lluv/uv/win/req-inl.h
+SHA1-Digest: aU09C4ZeDTHCgPI8Vb9b1r/a0j0=
+
+Name: app/src/main/jni/lluv/uv/win/req.c
+SHA1-Digest: uwE8Ajmcu6YARET5eF9xiyh563s=
+
+Name: app/src/main/jni/lluv/uv/win/signal.c
+SHA1-Digest: fC7uQA4PF47z/Bi5SZ7Q3uwSh7c=
+
+Name: app/src/main/jni/lluv/uv/win/snprintf.c
+SHA1-Digest: GqJEoIplm4nSb29pTXWffmbY23k=
+
+Name: app/src/main/jni/lluv/uv/win/stream-inl.h
+SHA1-Digest: BwBmk3+/EkVxoydc2gmtvzdnDhY=
+
+Name: app/src/main/jni/lluv/uv/win/stream.c
+SHA1-Digest: i0EE7NPKBjBclTlPeBjaAbAZdaw=
+
+Name: app/src/main/jni/lluv/uv/win/tcp.c
+SHA1-Digest: cNm2HXGa/+94Rmb8Nx9DLIOMBr0=
+
+Name: app/src/main/jni/lluv/uv/win/thread.c
+SHA1-Digest: tjLfDnpDfF10EZni1MosbBelsnU=
+
+Name: app/src/main/jni/lluv/uv/win/tty.c
+SHA1-Digest: RZY7CrrhrRmRBqTHw8K020v+Qjc=
+
+Name: app/src/main/jni/lluv/uv/win/udp.c
+SHA1-Digest: Sma7qaVNJTIVSSFXhi1gPyNcRjQ=
+
+Name: app/src/main/jni/lluv/uv/win/util.c
+SHA1-Digest: na/LqqQYlsXkPb4gchzLZDD+D9M=
+
+Name: app/src/main/jni/lluv/uv/win/winapi.c
+SHA1-Digest: grRKEQJhLdNAuC+eyZIoJIB+73Q=
+
+Name: app/src/main/jni/lluv/uv/win/winapi.h
+SHA1-Digest: YPpKeUvTtCCFbQB9oDCzBqMIzjY=
+
+Name: app/src/main/jni/lluv/uv/win/winsock.c
+SHA1-Digest: xI1h6Vr88eoRDCFCTCTYlvwiLkA=
+
+Name: app/src/main/jni/lluv/uv/win/winsock.h
+SHA1-Digest: qKPgTdN4uSnGsxxhzdT9Y6VqsWc=
+
+Name: app/src/main/jni/lsqlite3/Android.mk2
+SHA1-Digest: Iv6uboqFu0TslQgR513l4SeKQ0g=
+
+Name: app/src/main/jni/lsqlite3/lsqlite3.c
+SHA1-Digest: gy6OYA6V9QV53td6YhMj+DAavq4=
+
+Name: app/src/main/jni/lsqlite3/lsqlite3.h
+SHA1-Digest: KOfEn67aw3mgsnnOsQraePsPUpU=
+
+Name: app/src/main/jni/lsqlite3/sqlite3.c
+SHA1-Digest: Mavru9ijij5z5LDgfxZmPNTSD1g=
+
+Name: app/src/main/jni/lsqlite3/sqlite3.h
+SHA1-Digest: cT3YS/RTmnKjSZfy5Sk8Mu0zMOA=
+
+Name: app/src/main/jni/lua/Android.mk
+SHA1-Digest: RaTuEMGT04KSTdzmk0ob8hSRyS8=
+
+Name: app/src/main/jni/lua/Makefile
+SHA1-Digest: OwC6ZCGt6Mp0PmM2iLiQkLHiAec=
+
+Name: app/src/main/jni/lua/lapi.c
+SHA1-Digest: 8/SsKRoaSpfddy6ypkUPOlLG44c=
+
+Name: app/src/main/jni/lua/lapi.h
+SHA1-Digest: qB7ADmo9+4JfuM/tPAD/oxE10k8=
+
+Name: app/src/main/jni/lua/lauxlib.c
+SHA1-Digest: rVIsYI3u0JW0bpXutM2aj371auU=
+
+Name: app/src/main/jni/lua/lauxlib.h
+SHA1-Digest: KeRB1pJ/gMZgyoyS0swXuZo1tUg=
+
+Name: app/src/main/jni/lua/lbaselib.c
+SHA1-Digest: un+MMul1d6jHElKjKhRFXW8o4Iw=
+
+Name: app/src/main/jni/lua/lbitlib.c
+SHA1-Digest: rAoGGo34QHaCY3JpWRBwhp45rYw=
+
+Name: app/src/main/jni/lua/lcode.c
+SHA1-Digest: hwDb7lJPzDJvw4A/qlut7kUZo1w=
+
+Name: app/src/main/jni/lua/lcode.h
+SHA1-Digest: /nwulXMnTMWUb6IS9mq+4slssWQ=
+
+Name: app/src/main/jni/lua/lcorolib.c
+SHA1-Digest: PQVxURJeNT258sXzm4qgDCnzqc4=
+
+Name: app/src/main/jni/lua/lctype.c
+SHA1-Digest: 7+uNHjZyXiiMba4i8YHg5XqBvrU=
+
+Name: app/src/main/jni/lua/lctype.h
+SHA1-Digest: ZzNSQkNwJh165EqASUvBXarZebk=
+
+Name: app/src/main/jni/lua/ldblib.c
+SHA1-Digest: RBqhmSSJ9n0/IetfR9wy16Kjolo=
+
+Name: app/src/main/jni/lua/ldebug.c
+SHA1-Digest: ar5Ld1aKH9bap+nOBWV7YkZ83hI=
+
+Name: app/src/main/jni/lua/ldebug.h
+SHA1-Digest: L3hV3FtxjukIJRcohbZ9rA+nBlI=
+
+Name: app/src/main/jni/lua/ldo.c
+SHA1-Digest: 867fTqga+9PI/FKDH2QD1v9N7sU=
+
+Name: app/src/main/jni/lua/ldo.h
+SHA1-Digest: o36+W10mXqcnKFcB7pQ0SAtNDCc=
+
+Name: app/src/main/jni/lua/ldump.c
+SHA1-Digest: zkiXYx+07feBcTVp69yK/YIj/RM=
+
+Name: app/src/main/jni/lua/lfunc.c
+SHA1-Digest: R2lLNxBo9R/MU1aebRaFly7TrwQ=
+
+Name: app/src/main/jni/lua/lfunc.h
+SHA1-Digest: 5y5f+aUL8skIHHutizEaOI9RqKk=
+
+Name: app/src/main/jni/lua/lgc.c
+SHA1-Digest: +j29Kj516ZlAntdgOh+WeVQFzRs=
+
+Name: app/src/main/jni/lua/lgc.h
+SHA1-Digest: vpJemksJYrqgMhWcaigaJ4zFSyQ=
+
+Name: app/src/main/jni/lua/linit.c
+SHA1-Digest: VghIfPL2xGYLXMV1O/7B5uisHus=
+
+Name: app/src/main/jni/lua/liolib.c
+SHA1-Digest: J6yRDxJtOxWlflMPQrmZOO6Aguo=
+
+Name: app/src/main/jni/lua/llex.c
+SHA1-Digest: GCV/lHvEpf+AxQmZcAKqvK1eNig=
+
+Name: app/src/main/jni/lua/llex.h
+SHA1-Digest: lHcEhXcq2PkGPVRFuqyTC2Nc1F8=
+
+Name: app/src/main/jni/lua/llimits.h
+SHA1-Digest: rBYsbaKG6LFCYuYtpT1fqFSZJfQ=
+
+Name: app/src/main/jni/lua/lmathlib.c
+SHA1-Digest: TCu+H1NAfQlxw/GwYfEmEwx1nHw=
+
+Name: app/src/main/jni/lua/lmem.c
+SHA1-Digest: 9vCYmYCF+/1jfoD8hXHSNtk6Uck=
+
+Name: app/src/main/jni/lua/lmem.h
+SHA1-Digest: hvVsxxYlPFM2hJVEoTLApk0yQvQ=
+
+Name: app/src/main/jni/lua/loadlib.c
+SHA1-Digest: 7xyf9A4hlg9tIPRb4UIxYhhPeO8=
+
+Name: app/src/main/jni/lua/lobject.c
+SHA1-Digest: wztS0AbrtAIc86SWtikyRINluos=
+
+Name: app/src/main/jni/lua/lobject.h
+SHA1-Digest: dtaReA58eIPMT5KeUXWGh8h2UBo=
+
+Name: app/src/main/jni/lua/lopcodes.c
+SHA1-Digest: 8ZUQPQbPxt3RgM5J/HaatSL/vrg=
+
+Name: app/src/main/jni/lua/lopcodes.h
+SHA1-Digest: ZlkS/7sr0z0B9DqG+0FGKxLDZSk=
+
+Name: app/src/main/jni/lua/loslib.c
+SHA1-Digest: 4zqtCxCDaE8m+H5QMCDB7nzXvbI=
+
+Name: app/src/main/jni/lua/lparser.c
+SHA1-Digest: X4bc2u7J6Ze7fCEW++722L8bUYE=
+
+Name: app/src/main/jni/lua/lparser.h
+SHA1-Digest: /3hzX4oBE+j+lZaFjW6mS8vH35Y=
+
+Name: app/src/main/jni/lua/lprefix.h
+SHA1-Digest: B3MPn9M/kZqgiy+bTwmDFHh62Os=
+
+Name: app/src/main/jni/lua/lstate.c
+SHA1-Digest: nedQVbsiKeQQ2uAlDWBkib0dYzk=
+
+Name: app/src/main/jni/lua/lstate.h
+SHA1-Digest: SY6568JRCBn7tortF0ncEkVKkwY=
+
+Name: app/src/main/jni/lua/lstring.c
+SHA1-Digest: nYxKrRhBzFnJx5LUyPG75g2xhmw=
+
+Name: app/src/main/jni/lua/lstring.h
+SHA1-Digest: fjyFbCRkSQ2qGBSqFslq7/LxGSM=
+
+Name: app/src/main/jni/lua/lstrlib.c
+SHA1-Digest: TRwZDr565JNxVR+N+9jC3K2eYYw=
+
+Name: app/src/main/jni/lua/ltable.c
+SHA1-Digest: 1NoiXhOxsCFE2jBNbsGrIk77/CM=
+
+Name: app/src/main/jni/lua/ltable.h
+SHA1-Digest: IBf6ruJrL0pvy5VMIlFPSBB7AX4=
+
+Name: app/src/main/jni/lua/ltablib.c
+SHA1-Digest: cuXmsy27LsJSt3dn/ETfka1I5iw=
+
+Name: app/src/main/jni/lua/ltm.c
+SHA1-Digest: EvvDvsuOPJFk0S87QscnYI0TBdE=
+
+Name: app/src/main/jni/lua/ltm.h
+SHA1-Digest: A/0IrjqvSqWuOQ4bWQgp32I3CPk=
+
+Name: app/src/main/jni/lua/lua.c
+SHA1-Digest: FgFVicNHio2uoR/RmDI2SzKDYN8=
+
+Name: app/src/main/jni/lua/lua.h
+SHA1-Digest: pMu2TCXLPyfPVZuvm0D3BPIUdOg=
+
+Name: app/src/main/jni/lua/lua.hpp
+SHA1-Digest: RLAD3yt+9o7jFL44OVZ+w7h+bKU=
+
+Name: app/src/main/jni/lua/luac.c
+SHA1-Digest: QvFTdAYUsdlWk5My/5w4amRaMRs=
+
+Name: app/src/main/jni/lua/luaconf.h
+SHA1-Digest: 4yckCTpUNeB5SzeLlag6AhcZxs4=
+
+Name: app/src/main/jni/lua/lualib.h
+SHA1-Digest: OhdpCKMx3lvt/ftfxCF/l+Wcnmg=
+
+Name: app/src/main/jni/lua/lundump.c
+SHA1-Digest: 4W45xFt0NfPxh6GlZwzdPw1SkfM=
+
+Name: app/src/main/jni/lua/lundump.h
+SHA1-Digest: PVFSqyAQ6WTUQRmMmUlrYUqqi+I=
+
+Name: app/src/main/jni/lua/lutf8lib.c
+SHA1-Digest: E4ihV0BKJSO1g1pRMm454ZlHzAY=
+
+Name: app/src/main/jni/lua/lvm.c
+SHA1-Digest: 0gXkTClnVHAgZtsG+WaR476S/+M=
+
+Name: app/src/main/jni/lua/lvm.h
+SHA1-Digest: YCsr6KUguLxHo0vVKYRRr2AcX0Y=
+
+Name: app/src/main/jni/lua/lzio.c
+SHA1-Digest: xnOvNxeMBaY/FxS3xT4uze0mZXs=
+
+Name: app/src/main/jni/lua/lzio.h
+SHA1-Digest: 6LBHTAxVWcmoX92j9COK2UnFJR4=
+
+Name: app/src/main/jni/lua/unidata.h
+SHA1-Digest: Ci5rdyFYZi9Lwtk8vhCKAkDVNGA=
+
+Name: app/src/main/jni/luagl/Android.mk
+SHA1-Digest: hDgLGPTucnCEXHtCa5evJO/cj5E=
+
+Name: app/src/main/jni/luagl/luagl.c
+SHA1-Digest: mFrgoi2jD9L3ptYSy+Ye9vqZLPg=
+
+Name: app/src/main/jni/luagl/luagl.h
+SHA1-Digest: r4QBClzu9eWDUmpr3pcPDwm7pts=
+
+Name: app/src/main/jni/luagl/luagl_const.c
+SHA1-Digest: e1Yovnhlln+0KDPm8dZoizkiZoc=
+
+Name: app/src/main/jni/luagl/luagl_const.h
+SHA1-Digest: JTa4nv7XMuoomDDhaw5bpIFMJ2Y=
+
+Name: app/src/main/jni/luagl/luagl_util.c
+SHA1-Digest: 3kK99i0hWV0OUz0+gqjnQ72o3to=
+
+Name: app/src/main/jni/luagl/luagl_util.h
+SHA1-Digest: F8GTL3ljHaOo8mJDHZe349CLwew=
+
+Name: app/src/main/jni/luagl/luaglu.c
+SHA1-Digest: /ZgAb0r9J0qIyvwvZZQOGIFJ6zM=
+
+Name: app/src/main/jni/luagl/luaglu.h
+SHA1-Digest: u46aknARQ7YRksGVFy8NUYZtAS0=
+
+Name: app/src/main/jni/luajava/Android.mk
+SHA1-Digest: gR/cC7iwvVKsbx+oEhjk/zFUHUs=
+
+Name: app/src/main/jni/luajava/decode.c
+SHA1-Digest: rOxHfCtf6/XDwlFjRC4nnxUWC9g=
+
+Name: app/src/main/jni/luajava/luajava.c
+SHA1-Digest: rG7U9N+WHqdlDyM6fTPDFmqXBgU=
+
+Name: app/src/main/jni/luajava/luajava.h
+SHA1-Digest: SqzcAMXziBs+xZdcO6psYUp0IQ8=
+
+Name: app/src/main/jni/luv/Android.mk
+SHA1-Digest: vHTcFJJTUYeZvp9SBzdeIg5bKrs=
+
+Name: app/src/main/jni/luv/include/uv.h
+SHA1-Digest: PeZPfgSgA5fx9Iu53awh4ErHv/c=
+
+Name: app/src/main/jni/luv/include/uv/aix.h
+SHA1-Digest: nwHp4sygMntVGkvht/IV7HjfO30=
+
+Name: app/src/main/jni/luv/include/uv/android-ifaddrs.h
+SHA1-Digest: qmUTqZ8g35unOy8awI+klwKWzHU=
+
+Name: app/src/main/jni/luv/include/uv/bsd.h
+SHA1-Digest: ekZvhtbakXURaUsI6iG3fmuofio=
+
+Name: app/src/main/jni/luv/include/uv/darwin.h
+SHA1-Digest: deU78SEGAdDe+OGjq0PiVYdjGh4=
+
+Name: app/src/main/jni/luv/include/uv/errno.h
+SHA1-Digest: K/KUpNSk2pufDgpQTKreUtaufW0=
+
+Name: app/src/main/jni/luv/include/uv/linux.h
+SHA1-Digest: /mYUdoZQz9mg5Nrib3v8J9nQk4c=
+
+Name: app/src/main/jni/luv/include/uv/os390.h
+SHA1-Digest: r5kGC9c76xeCTbkh6mSx9lANPiI=
+
+Name: app/src/main/jni/luv/include/uv/posix.h
+SHA1-Digest: WM7VlRAIR21SH5UjBkwIZ6D/G4c=
+
+Name: app/src/main/jni/luv/include/uv/pthread-barrier.h
+SHA1-Digest: Ih1A//bfSLzTnGmB1g2E5IRJglk=
+
+Name: app/src/main/jni/luv/include/uv/stdint-msvc2008.h
+SHA1-Digest: GftwFZzSCqzn5/mRLtbpZc+kvGA=
+
+Name: app/src/main/jni/luv/include/uv/sunos.h
+SHA1-Digest: O3zxByDvsWCFz3tCE3aPRdRi1NQ=
+
+Name: app/src/main/jni/luv/include/uv/threadpool.h
+SHA1-Digest: KXZeLnn92YulC8CMrpHOJ2ZRRmM=
+
+Name: app/src/main/jni/luv/include/uv/tree.h
+SHA1-Digest: spSgaHY4ZizvD/TVXu5yK7IXOJo=
+
+Name: app/src/main/jni/luv/include/uv/unix.h
+SHA1-Digest: ww0WGUxwRp5K3iYB6qedRio+XFs=
+
+Name: app/src/main/jni/luv/include/uv/version.h
+SHA1-Digest: HsSLxTSR86+kQGL+iORaR7QtYt8=
+
+Name: app/src/main/jni/luv/include/uv/win.h
+SHA1-Digest: xtCPLsn9RKQ2lj+ppkeZwdhM4/4=
+
+Name: app/src/main/jni/luv/luv/async.c
+SHA1-Digest: WZ8mXeH3N4EYkzyE2DFmMtjmgVU=
+
+Name: app/src/main/jni/luv/luv/check.c
+SHA1-Digest: v04EV9Bh6NJCDyjvbmR5EmMByMQ=
+
+Name: app/src/main/jni/luv/luv/constants.c
+SHA1-Digest: TbfOHftdbJ62+H1+bSZDQKJs3eY=
+
+Name: app/src/main/jni/luv/luv/dns.c
+SHA1-Digest: pc+zUzuTp0yT0TKZajai7EktdBQ=
+
+Name: app/src/main/jni/luv/luv/fs.c
+SHA1-Digest: cq+E9ivtjCPs27iplAvu/X8xc40=
+
+Name: app/src/main/jni/luv/luv/fs_event.c
+SHA1-Digest: vLfXuIhZH8O6Hm/RyFZFRGxU9xE=
+
+Name: app/src/main/jni/luv/luv/fs_poll.c
+SHA1-Digest: zn5VcYgR8BGPsQuRVe5oxb5++UY=
+
+Name: app/src/main/jni/luv/luv/handle.c
+SHA1-Digest: d1CZULTIpc+Gk2UGc1Sizuw/1Ks=
+
+Name: app/src/main/jni/luv/luv/idle.c
+SHA1-Digest: WoNFxLNCA62xHcweGKjPFPM55Xw=
+
+Name: app/src/main/jni/luv/luv/lhandle.c
+SHA1-Digest: mPWGeysjlOHB43qRHBtXAKoRjaU=
+
+Name: app/src/main/jni/luv/luv/lhandle.h
+SHA1-Digest: L0B9odddNbX5eW8Mu1/2GninTBw=
+
+Name: app/src/main/jni/luv/luv/loop.c
+SHA1-Digest: y18MSpKmVmOxxkO/vbEWVp48Gnw=
+
+Name: app/src/main/jni/luv/luv/lreq.c
+SHA1-Digest: 2sttR8XJtMRmkiLXYg4uNcL4Woo=
+
+Name: app/src/main/jni/luv/luv/lreq.h
+SHA1-Digest: 1Tw7LuxnNCvb/OKXt27omFo81aE=
+
+Name: app/src/main/jni/luv/luv/lthreadpool.h
+SHA1-Digest: w61uv58/owxOZP91Ad6n/XjMubU=
+
+Name: app/src/main/jni/luv/luv/luv.c
+SHA1-Digest: cncSwB9VdDppuX0jcCWUZ70X8Us=
+
+Name: app/src/main/jni/luv/luv/luv.h
+SHA1-Digest: HZAfG9vgN5zwJQnzOO0BmLRnsVc=
+
+Name: app/src/main/jni/luv/luv/misc.c
+SHA1-Digest: Tc4i5Uqs+mug+i+G2kFijQJUir8=
+
+Name: app/src/main/jni/luv/luv/pipe.c
+SHA1-Digest: xV7hoqj3vt4uIaIkwBPIYn909YM=
+
+Name: app/src/main/jni/luv/luv/poll.c
+SHA1-Digest: FBtk8KYD6DUfn/hZi2io6uYndRg=
+
+Name: app/src/main/jni/luv/luv/prepare.c
+SHA1-Digest: 5vcpTlH+bLZkKc1GAROawi9xHYM=
+
+Name: app/src/main/jni/luv/luv/process.c
+SHA1-Digest: uCVwVtaSbDmRVcGAPvvcmcj4UL4=
+
+Name: app/src/main/jni/luv/luv/req.c
+SHA1-Digest: zW2EgQT3NNR1taN3QumoQIJw78g=
+
+Name: app/src/main/jni/luv/luv/schema.c
+SHA1-Digest: VyaMr1sp5ZwSZQQjr3so85R1Gqw=
+
+Name: app/src/main/jni/luv/luv/signal.c
+SHA1-Digest: Nm8edmzzKM6iMWa0wXz0jN4hkkQ=
+
+Name: app/src/main/jni/luv/luv/stream.c
+SHA1-Digest: xKdmDQoR/iMg+Y+zMxlWb9LQUQw=
+
+Name: app/src/main/jni/luv/luv/tcp.c
+SHA1-Digest: v3Nrj6uYNwCeeAfVAW70mkpMxlQ=
+
+Name: app/src/main/jni/luv/luv/thread.c
+SHA1-Digest: WqHdcIRivE73Xejdr6EScm1oR7U=
+
+Name: app/src/main/jni/luv/luv/timer.c
+SHA1-Digest: T0nGxVoWWy/lgJ1z+Fme6P6yjcc=
+
+Name: app/src/main/jni/luv/luv/tty.c
+SHA1-Digest: tTlkUEnxAhMNRAJeVA7yuXRoYk0=
+
+Name: app/src/main/jni/luv/luv/udp.c
+SHA1-Digest: yjd0ct0qrcm5ZQsXotzwHVaapXg=
+
+Name: app/src/main/jni/luv/luv/util.c
+SHA1-Digest: jWvcRcq/P33ps1nr5WRFkc5rbWQ=
+
+Name: app/src/main/jni/luv/luv/util.h
+SHA1-Digest: xKLIhwVez2dw+6ZWfMM70JOSFrY=
+
+Name: app/src/main/jni/luv/luv/work.c
+SHA1-Digest: ErML+qgitft1Xw16fu52FDbB6A8=
+
+Name: app/src/main/jni/luv/uv/fs-poll.c
+SHA1-Digest: FNzeOGr+f7byuKREvn2ERqJ1bsY=
+
+Name: app/src/main/jni/luv/uv/heap-inl.h
+SHA1-Digest: RRZmsq+YRwBMRlwyTIHCe2HHHAk=
+
+Name: app/src/main/jni/luv/uv/inet.c
+SHA1-Digest: 2pxgUSs8qIX8NI6Roh9/u3oM7q0=
+
+Name: app/src/main/jni/luv/uv/queue.h
+SHA1-Digest: Ey56OI7po7SusuSxrbj0pcwYSNg=
+
+Name: app/src/main/jni/luv/uv/threadpool.c
+SHA1-Digest: E8SrzLdKPt7ZzDHPhy+L4hbGuLI=
+
+Name: app/src/main/jni/luv/uv/timer.c
+SHA1-Digest: gDf/bwqDZfn4/EXCpmpNozQ863o=
+
+Name: app/src/main/jni/luv/uv/unix/aix-common.c
+SHA1-Digest: ud8xNkTMU/6EXHTmvYY4RCE+9p4=
+
+Name: app/src/main/jni/luv/uv/unix/aix.c
+SHA1-Digest: YGM0a+rZja8sp8EUNytOE8ZV4hs=
+
+Name: app/src/main/jni/luv/uv/unix/android-ifaddrs.c
+SHA1-Digest: jDAm9WXNfzLvIF4GkJiHn/dYrAY=
+
+Name: app/src/main/jni/luv/uv/unix/async.c
+SHA1-Digest: etwq6GqJ1G6J9zsOi8XHyACeFKA=
+
+Name: app/src/main/jni/luv/uv/unix/atomic-ops.h
+SHA1-Digest: oeXL9fUN3mQSJay6MJifPJn9SpY=
+
+Name: app/src/main/jni/luv/uv/unix/bsd-ifaddrs.c
+SHA1-Digest: U4wG83g/8LcPwvEK4bFgiSmMgsc=
+
+Name: app/src/main/jni/luv/uv/unix/core.c
+SHA1-Digest: HCtExJ0SQEzO09szHmXvFOl2Ph0=
+
+Name: app/src/main/jni/luv/uv/unix/cygwin.c
+SHA1-Digest: ibwCnNHe6vVeohsMEBKVpCUSHB8=
+
+Name: app/src/main/jni/luv/uv/unix/darwin-proctitle.c
+SHA1-Digest: SMIMMUoXbVwUNjKB+XkGAx6gCi8=
+
+Name: app/src/main/jni/luv/uv/unix/darwin.c
+SHA1-Digest: Lfjli2whgijEiMx7OeAgnhdp8Zk=
+
+Name: app/src/main/jni/luv/uv/unix/dl.c
+SHA1-Digest: sejT+cUTMkSyGxn+ua3h2DQNkrQ=
+
+Name: app/src/main/jni/luv/uv/unix/freebsd.c
+SHA1-Digest: b238gc6FnJm+gktRrqBDCpjheP4=
+
+Name: app/src/main/jni/luv/uv/unix/fs.c
+SHA1-Digest: 4JLmeT/057r82bX+gm1SWllabDU=
+
+Name: app/src/main/jni/luv/uv/unix/fsevents.c
+SHA1-Digest: DMj1t+QxW5AEWGC0tcTOPFQW+kQ=
+
+Name: app/src/main/jni/luv/uv/unix/getaddrinfo.c
+SHA1-Digest: 2R+HG6+A4NCLOHmAjvD1LPW51iE=
+
+Name: app/src/main/jni/luv/uv/unix/getnameinfo.c
+SHA1-Digest: n7INNVORPfIkeWXQyqAtLKgEMp0=
+
+Name: app/src/main/jni/luv/uv/unix/ibmi.c
+SHA1-Digest: m2JZeG3oO8Ix/L3fsOcECC35w1k=
+
+Name: app/src/main/jni/luv/uv/unix/internal.h
+SHA1-Digest: 79I6xk6ezD2+XgvQYu0vVN7yMOc=
+
+Name: app/src/main/jni/luv/uv/unix/kqueue.c
+SHA1-Digest: fcGWmPb0O5zpqg3EtNEmv08VdBk=
+
+Name: app/src/main/jni/luv/uv/unix/linux-core.c
+SHA1-Digest: WnZsU9PsZEXnD6OxuGjQJfK624Y=
+
+Name: app/src/main/jni/luv/uv/unix/linux-inotify.c
+SHA1-Digest: ddgskFKGwi/wlSMPsBH5BkdJwpE=
+
+Name: app/src/main/jni/luv/uv/unix/linux-syscalls.c
+SHA1-Digest: TpdW1N1qCEiw7/dqke/Elv7Yx/A=
+
+Name: app/src/main/jni/luv/uv/unix/linux-syscalls.h
+SHA1-Digest: +etSmD6W8/Dr0aYgf+kq3NUylN8=
+
+Name: app/src/main/jni/luv/uv/unix/loop-watcher.c
+SHA1-Digest: ZcbA8xQ7fkAZuB41c+YbbxOYbIM=
+
+Name: app/src/main/jni/luv/uv/unix/loop.c
+SHA1-Digest: BUj3FZ9zqt729XqF0wSQyUIR5Go=
+
+Name: app/src/main/jni/luv/uv/unix/netbsd.c
+SHA1-Digest: 0mP5vZFiE43mBitXI/7Gh8wGI+Y=
+
+Name: app/src/main/jni/luv/uv/unix/no-fsevents.c
+SHA1-Digest: O21LkN+PQbMkYPdqHgrEB92TggE=
+
+Name: app/src/main/jni/luv/uv/unix/no-proctitle.c
+SHA1-Digest: 1sO7IsQbUqm4linxF68yNWqlV9g=
+
+Name: app/src/main/jni/luv/uv/unix/openbsd.c
+SHA1-Digest: oIzGaZr5miiHtFU+BUY6gKMFr7s=
+
+Name: app/src/main/jni/luv/uv/unix/os390-syscalls.c
+SHA1-Digest: SHIK6reJhUsZQmsJYW3AwGDlFTs=
+
+Name: app/src/main/jni/luv/uv/unix/os390-syscalls.h
+SHA1-Digest: zWMeToBkA00QIwJdV0eZ7ktvO84=
+
+Name: app/src/main/jni/luv/uv/unix/os390.c
+SHA1-Digest: v6JdQsowcCH4Vj8iAL7l00Q7WaI=
+
+Name: app/src/main/jni/luv/uv/unix/pipe.c
+SHA1-Digest: 1iE09IriLYhmkcMQKkSkgYXtYRE=
+
+Name: app/src/main/jni/luv/uv/unix/poll.c
+SHA1-Digest: IMleu7WPyl55AUYP1btHoFxUW4w=
+
+Name: app/src/main/jni/luv/uv/unix/posix-hrtime.c
+SHA1-Digest: zj1c6DlnuoxpFsJgPvohAzHsP7k=
+
+Name: app/src/main/jni/luv/uv/unix/posix-poll.c
+SHA1-Digest: 0eVtLw8CbQYJcpGpKoNnl24hocs=
+
+Name: app/src/main/jni/luv/uv/unix/process.c
+SHA1-Digest: YY8O0GUvANCImWhb+9DCaSR+uHY=
+
+Name: app/src/main/jni/luv/uv/unix/procfs-exepath.c
+SHA1-Digest: Lhy0xO0PFqELdU9ug1bG/f/bXpo=
+
+Name: app/src/main/jni/luv/uv/unix/proctitle.c
+SHA1-Digest: /qQfy9hCE8vV+LaZh+43JoRv7yQ=
+
+Name: app/src/main/jni/luv/uv/unix/pthread-fixes.c
+SHA1-Digest: +vFfC46GvlMiGt/2xI4JN1a1TM0=
+
+Name: app/src/main/jni/luv/uv/unix/signal.c
+SHA1-Digest: azlVNUJgfLyDTZRJoHrCdnZDO+A=
+
+Name: app/src/main/jni/luv/uv/unix/spinlock.h
+SHA1-Digest: lktCzRWLERVJECncjEUN08injHM=
+
+Name: app/src/main/jni/luv/uv/unix/stream.c
+SHA1-Digest: GTpmwzEbn3ak8b3MhyxhlMUBWLs=
+
+Name: app/src/main/jni/luv/uv/unix/sunos.c
+SHA1-Digest: XN4ZQI15pMxEBSIunSVQdu3MuCI=
+
+Name: app/src/main/jni/luv/uv/unix/sysinfo-loadavg.c
+SHA1-Digest: MTpjqN821AcvMaxKu3weNRVtViA=
+
+Name: app/src/main/jni/luv/uv/unix/sysinfo-memory.c
+SHA1-Digest: krktfQ5JK2DMsfMEgfVmsh9tLwo=
+
+Name: app/src/main/jni/luv/uv/unix/tcp.c
+SHA1-Digest: OzgpUIvQ34FYD5I3r978CGJW4yo=
+
+Name: app/src/main/jni/luv/uv/unix/thread.c
+SHA1-Digest: w7qbN5T5z/7h8/sFSlMRmI4sHrU=
+
+Name: app/src/main/jni/luv/uv/unix/tty.c
+SHA1-Digest: YYI6gI+3cCz5gimfGMbgZJnHhPA=
+
+Name: app/src/main/jni/luv/uv/unix/udp.c
+SHA1-Digest: e9ZcwyDNBdCUhDQ6H2JDE6iaPmI=
+
+Name: app/src/main/jni/luv/uv/uv-common.c
+SHA1-Digest: Eu3rSEGWRlj/sTUM4sKqlYgToNo=
+
+Name: app/src/main/jni/luv/uv/uv-common.h
+SHA1-Digest: rK159dYsh+ZPz0hDVBoDleA8NZQ=
+
+Name: app/src/main/jni/luv/uv/uv-data-getter-setters.c
+SHA1-Digest: rC4YnCc6t58pZ1hxhcj8EIYZ1Yg=
+
+Name: app/src/main/jni/luv/uv/version.c
+SHA1-Digest: Zlr+73ueN3FJus/jgf0TXIKHXqc=
+
+Name: app/src/main/jni/luv/uv/win/async.c
+SHA1-Digest: p+O9TZs3Tfd/ivr8KtImDRsXF14=
+
+Name: app/src/main/jni/luv/uv/win/atomicops-inl.h
+SHA1-Digest: u5YFIN0aAn+kiCRc75YGCgCRrOE=
+
+Name: app/src/main/jni/luv/uv/win/core.c
+SHA1-Digest: RRKBpDwLtmjquyvFNe/DxG0vCjQ=
+
+Name: app/src/main/jni/luv/uv/win/detect-wakeup.c
+SHA1-Digest: oXAoUtCb0rj3gM3oSVWdcnHxfn8=
+
+Name: app/src/main/jni/luv/uv/win/dl.c
+SHA1-Digest: Oh+DXBuC6TGBN52elGJAHb66wSA=
+
+Name: app/src/main/jni/luv/uv/win/error.c
+SHA1-Digest: qtyII0RnEFqS6A8rirmFPN+hcLc=
+
+Name: app/src/main/jni/luv/uv/win/fs-event.c
+SHA1-Digest: qHTM8Yp5jqY7dolGFB+UlPH8agE=
+
+Name: app/src/main/jni/luv/uv/win/fs.c
+SHA1-Digest: N5QLtRHBUToCaUU8IwpsVyz9TUM=
+
+Name: app/src/main/jni/luv/uv/win/getaddrinfo.c
+SHA1-Digest: pctVBlYQihOrXJplXC4OzFr49OQ=
+
+Name: app/src/main/jni/luv/uv/win/getnameinfo.c
+SHA1-Digest: LdTK8ZATFrmy1CuZ98k0fC3FMZ4=
+
+Name: app/src/main/jni/luv/uv/win/handle-inl.h
+SHA1-Digest: p0IjaE0PImQ4aSc6Te2+dyAUGKE=
+
+Name: app/src/main/jni/luv/uv/win/handle.c
+SHA1-Digest: d8aI1pbqto4Mx5gndkmm6ST2OGc=
+
+Name: app/src/main/jni/luv/uv/win/internal.h
+SHA1-Digest: J2SnAfcRiNPP2retov6PWxcmslA=
+
+Name: app/src/main/jni/luv/uv/win/loop-watcher.c
+SHA1-Digest: sD5j9nYXqh2xQN9zniJdA463xhk=
+
+Name: app/src/main/jni/luv/uv/win/pipe.c
+SHA1-Digest: BYRjr6GrPqJm/R3Xcgsbjx5QfnY=
+
+Name: app/src/main/jni/luv/uv/win/poll.c
+SHA1-Digest: LZ7ueJBMkkWaZLaA0ZwHelxjLBY=
+
+Name: app/src/main/jni/luv/uv/win/process-stdio.c
+SHA1-Digest: 09qTk49f41rSKe2wMSjZak7Y9FQ=
+
+Name: app/src/main/jni/luv/uv/win/process.c
+SHA1-Digest: ctVpI8rFpjB0dkRd1lKaKBE2qos=
+
+Name: app/src/main/jni/luv/uv/win/req-inl.h
+SHA1-Digest: aU09C4ZeDTHCgPI8Vb9b1r/a0j0=
+
+Name: app/src/main/jni/luv/uv/win/req.c
+SHA1-Digest: uwE8Ajmcu6YARET5eF9xiyh563s=
+
+Name: app/src/main/jni/luv/uv/win/signal.c
+SHA1-Digest: fC7uQA4PF47z/Bi5SZ7Q3uwSh7c=
+
+Name: app/src/main/jni/luv/uv/win/snprintf.c
+SHA1-Digest: GqJEoIplm4nSb29pTXWffmbY23k=
+
+Name: app/src/main/jni/luv/uv/win/stream-inl.h
+SHA1-Digest: BwBmk3+/EkVxoydc2gmtvzdnDhY=
+
+Name: app/src/main/jni/luv/uv/win/stream.c
+SHA1-Digest: i0EE7NPKBjBclTlPeBjaAbAZdaw=
+
+Name: app/src/main/jni/luv/uv/win/tcp.c
+SHA1-Digest: cNm2HXGa/+94Rmb8Nx9DLIOMBr0=
+
+Name: app/src/main/jni/luv/uv/win/thread.c
+SHA1-Digest: tjLfDnpDfF10EZni1MosbBelsnU=
+
+Name: app/src/main/jni/luv/uv/win/tty.c
+SHA1-Digest: RZY7CrrhrRmRBqTHw8K020v+Qjc=
+
+Name: app/src/main/jni/luv/uv/win/udp.c
+SHA1-Digest: Sma7qaVNJTIVSSFXhi1gPyNcRjQ=
+
+Name: app/src/main/jni/luv/uv/win/util.c
+SHA1-Digest: na/LqqQYlsXkPb4gchzLZDD+D9M=
+
+Name: app/src/main/jni/luv/uv/win/winapi.c
+SHA1-Digest: grRKEQJhLdNAuC+eyZIoJIB+73Q=
+
+Name: app/src/main/jni/luv/uv/win/winapi.h
+SHA1-Digest: YPpKeUvTtCCFbQB9oDCzBqMIzjY=
+
+Name: app/src/main/jni/luv/uv/win/winsock.c
+SHA1-Digest: xI1h6Vr88eoRDCFCTCTYlvwiLkA=
+
+Name: app/src/main/jni/luv/uv/win/winsock.h
+SHA1-Digest: qKPgTdN4uSnGsxxhzdT9Y6VqsWc=
+
+Name: app/src/main/jni/md5/Android.mk
+SHA1-Digest: AIM2dP8FaNLMNUampZ9YSXXWYSc=
+
+Name: app/src/main/jni/md5/README
+SHA1-Digest: BHY+0ux5Cx7i0HrFMlc90GRoxUQ=
+
+Name: app/src/main/jni/md5/compat-5.2.c
+SHA1-Digest: OfmNoPrIp1i4ir08o725P3WlWFQ=
+
+Name: app/src/main/jni/md5/compat-5.2.h
+SHA1-Digest: vU2KewRTvXDEND9lztEObmgGr6s=
+
+Name: app/src/main/jni/md5/md5.c
+SHA1-Digest: rYycOgsifcpW2J4pD5Rd1S0UVVc=
+
+Name: app/src/main/jni/md5/md5.h
+SHA1-Digest: BDofLAUHbMGiLYDl7dj9ZuaAB2w=
+
+Name: app/src/main/jni/md5/md5lib.c
+SHA1-Digest: 7LNAja/WjJwv48ztkWGfi2XsBUo=
+
+Name: app/src/main/jni/regex/Android.mk
+SHA1-Digest: wwMVyRjxtnNSQJzhVFoXc82dKGY=
+
+Name: app/src/main/jni/regex/algo.h
+SHA1-Digest: kNMc/W2TjJUTWd+paBy5co8Qmd4=
+
+Name: app/src/main/jni/regex/common.c
+SHA1-Digest: sFVkLIEP7HEkxSV3KHklzL0CHX8=
+
+Name: app/src/main/jni/regex/common.h
+SHA1-Digest: 85MFFWJRo9NLsbbfKr7/3ViaigM=
+
+Name: app/src/main/jni/regex/lposix.c
+SHA1-Digest: qvtZmY+XKLGbZhcwGvzzw3r4m7w=
+
+Name: app/src/main/jni/sensor/Android.mk
+SHA1-Digest: Tvv3qdBpvokYSLQuYFV9lTsZOx4=
+
+Name: app/src/main/jni/sensor/luasensor.cpp
+SHA1-Digest: 3nVU5j18M9dauA/2ARYVAlGb9cQ=
+
+Name: app/src/main/jni/sensor/luasensor.h
+SHA1-Digest: Kky82I4C4VOTpJT2j3XMBScwaFo=
+
+Name: app/src/main/jni/sensor/test_sensor.lua
+SHA1-Digest: TpxyFqB3gya8uTmgt7SwkVBq9ro=
+
+Name: app/src/main/jni/socket/Android.mk
+SHA1-Digest: QDqmGygDTk4i6SR4vhS8CMOYS7I=
+
+Name: app/src/main/jni/socket/auxiliar.c
+SHA1-Digest: 6IQ7AhmKH/wPSoO+B7fdQm/410Q=
+
+Name: app/src/main/jni/socket/auxiliar.h
+SHA1-Digest: IXUw+j0U16jBlIlyv96IjexjGKA=
+
+Name: app/src/main/jni/socket/buffer.c
+SHA1-Digest: gJDsicvX20Eqf+PtxaQ+BSr8XcY=
+
+Name: app/src/main/jni/socket/buffer.h
+SHA1-Digest: aiIKusJHjhtHpIsDkbAzMUVKCYw=
+
+Name: app/src/main/jni/socket/except.c
+SHA1-Digest: CxmRSgWohge0MfuiNZvF8sxXOHw=
+
+Name: app/src/main/jni/socket/except.h
+SHA1-Digest: CwOkL9gNMdPwaHpGvK+NJ8n/Umw=
+
+Name: app/src/main/jni/socket/inet.c
+SHA1-Digest: 1Fvzwxj9/fr2Ar29ux6k5BxDIjI=
+
+Name: app/src/main/jni/socket/inet.h
+SHA1-Digest: +hWndK3SXec+lwvHBe3p3iydE4U=
+
+Name: app/src/main/jni/socket/io.c
+SHA1-Digest: mG2oITT6XmL4iRZzsp0VbfpmEzw=
+
+Name: app/src/main/jni/socket/io.h
+SHA1-Digest: SOAka1ZJp2VnWmywhnBnuW3mAB4=
+
+Name: app/src/main/jni/socket/luasocket.c
+SHA1-Digest: Z9c6xRw5c0+fDN1EdslgtnGF6Tw=
+
+Name: app/src/main/jni/socket/luasocket.h
+SHA1-Digest: BA1DlMOt1jgazNvYUel8XmvGrDs=
+
+Name: app/src/main/jni/socket/makefile
+SHA1-Digest: KP2NAbqse1vGzkZaTtVxhc+cCGg=
+
+Name: app/src/main/jni/socket/mime.c
+SHA1-Digest: bKmkG+1wrvgw7875R4Cp4bI3Et8=
+
+Name: app/src/main/jni/socket/mime.h
+SHA1-Digest: pMBtDdQb8gQjE1mSUr/yuyuASsM=
+
+Name: app/src/main/jni/socket/options.c
+SHA1-Digest: 93Njz1+UVPso8aOO3Od604COzx0=
+
+Name: app/src/main/jni/socket/options.h
+SHA1-Digest: gafHpqYSP0VRj4qf3Tf0jftI32M=
+
+Name: app/src/main/jni/socket/pierror.h
+SHA1-Digest: 9QayXRLigvsOpl9cryhBygf3eBE=
+
+Name: app/src/main/jni/socket/select.c
+SHA1-Digest: yZzYQA9dMWJrOY5AldrAfyFHWgs=
+
+Name: app/src/main/jni/socket/select.h
+SHA1-Digest: iAwInQYcxg7GQWJ+B5Qda9O3hcA=
+
+Name: app/src/main/jni/socket/serial.c
+SHA1-Digest: AKr9XVR/2lH/0wlrNWhb3lnX6Vs=
+
+Name: app/src/main/jni/socket/socket.h
+SHA1-Digest: KamLHdZnHZ45kHzR9F8/cDG6Vzk=
+
+Name: app/src/main/jni/socket/tcp.c
+SHA1-Digest: BMcsrmu3A0a8wj2BYqGumeh7ECs=
+
+Name: app/src/main/jni/socket/tcp.h
+SHA1-Digest: MfGAphyGAFqaMpcFD5sKfHv/Bjw=
+
+Name: app/src/main/jni/socket/timeout.c
+SHA1-Digest: G/XJaOsko2Vle17jI06LlXP5bpE=
+
+Name: app/src/main/jni/socket/timeout.h
+SHA1-Digest: xdatWs2iMI+5GjqGgoU4mp6ZbB0=
+
+Name: app/src/main/jni/socket/udp.c
+SHA1-Digest: uilEku1Ezj14nO2AhR5hBwq3+EI=
+
+Name: app/src/main/jni/socket/udp.h
+SHA1-Digest: MuAVb7jwFa1sWWjfSaRU9bwpjZE=
+
+Name: app/src/main/jni/socket/unix.c
+SHA1-Digest: wwP66KNhpwMKcdIRaOnWk8sl8s8=
+
+Name: app/src/main/jni/socket/unix.h
+SHA1-Digest: Ot407dRIsYFNS4S0NKIXfIWxOY0=
+
+Name: app/src/main/jni/socket/usocket.c
+SHA1-Digest: +FZvS1tuZRxtbxdk1c53mZvmUwc=
+
+Name: app/src/main/jni/socket/usocket.h
+SHA1-Digest: VKz3yUT7WWIh0tkRiqiseD58l0Q=
+
+Name: app/src/main/jni/socket/wsocket.c
+SHA1-Digest: wdSo+BplbNKcOTTPg4EEhlqJYJQ=
+
+Name: app/src/main/jni/socket/wsocket.h
+SHA1-Digest: JfCKarEUKHzlyCq8w645rl+23rc=
+
+Name: app/src/main/jni/tcc/Android.mk2
+SHA1-Digest: SdWyDEknMugvdXDF7D+Oawug8rQ=
+
+Name: app/src/main/jni/tcc/arm-gen.c
+SHA1-Digest: M3DHoyLud6t2dnx/wPobeAtWiGw=
+
+Name: app/src/main/jni/tcc/config.h
+SHA1-Digest: GiSX/zbzKqrAVT9lpcNiFCnodXw=
+
+Name: app/src/main/jni/tcc/elf.h
+SHA1-Digest: i/Zq6ZCe+/BfRKYD02WYQMPCS5w=
+
+Name: app/src/main/jni/tcc/il-opcodes.h
+SHA1-Digest: wHdFsNNoAyjESeWEWvMjfWXavns=
+
+Name: app/src/main/jni/tcc/include/float.h
+SHA1-Digest: 152ZXZvIgNdgWZrxnRGf6RTLHP8=
+
+Name: app/src/main/jni/tcc/include/stdarg.h
+SHA1-Digest: YNJQVjuoGOEMnjKXtCEfWlwIw2w=
+
+Name: app/src/main/jni/tcc/include/stdbool.h
+SHA1-Digest: 71xHAT+5gKKoi/+3Rw7CEF7gcIM=
+
+Name: app/src/main/jni/tcc/include/stddef.h
+SHA1-Digest: odGAUab1ioBNS8NSRtATQfQceqE=
+
+Name: app/src/main/jni/tcc/include/tcclib.h
+SHA1-Digest: DPgmcBgx39MC0GwFwQ1LUNK3Crc=
+
+Name: app/src/main/jni/tcc/include/varargs.h
+SHA1-Digest: IAaa86OAXPTLBTOfenqGDwSh5Lk=
+
+Name: app/src/main/jni/tcc/libtcc.c
+SHA1-Digest: MUzheTjWtSg0HAcOituFKHBPY68=
+
+Name: app/src/main/jni/tcc/libtcc.h
+SHA1-Digest: 0YPShPXcN8j2AtbVHH0WzppC0FM=
+
+Name: app/src/main/jni/tcc/stab.def
+SHA1-Digest: wbhLRaxtoOCdA2ExP1GTlix9GvA=
+
+Name: app/src/main/jni/tcc/stab.h
+SHA1-Digest: f4YSIorxSMr72haFgbYAvQfzeOc=
+
+Name: app/src/main/jni/tcc/tcc.h
+SHA1-Digest: dsdHZRWZUT28MybWHVmxQSrrHOs=
+
+Name: app/src/main/jni/tcc/tcc_jni.c
+SHA1-Digest: Y9GoR0/iqHqxQSe1c9bqN96Y8d8=
+
+Name: app/src/main/jni/tcc/tcc_jni.c3
+SHA1-Digest: FdovhPY///PdjrozY1JhGko9m+A=
+
+Name: app/src/main/jni/tcc/tccasm.c
+SHA1-Digest: j1TW73K3AEBNtykMA5tpt0sYuvc=
+
+Name: app/src/main/jni/tcc/tccelf.c
+SHA1-Digest: IGPKcGBN0Ex2cJPIV+H/0xh/SMI=
+
+Name: app/src/main/jni/tcc/tccgen.c
+SHA1-Digest: vmd7d1jt6YdilgZEXRDPBd41xro=
+
+Name: app/src/main/jni/tcc/tccpp.c
+SHA1-Digest: EKxgLaChgy5oadiWvrvgR6tM0UU=
+
+Name: app/src/main/jni/tcc/tccrun.c
+SHA1-Digest: xzb5+iloNUGMa9BV4gWIKW2dI/E=
+
+Name: app/src/main/jni/tcc/tcctok.h
+SHA1-Digest: 2ZUVIP+fd0mTA1fzkWg2VBkAkl4=
+
+Name: app/src/main/jni/xml/Android.mk
+SHA1-Digest: u4IYER8m6s/YdJpFmxKAun20Uys=
+
+Name: app/src/main/jni/xml/xml.c
+SHA1-Digest: v/ZV9s1GKJ+0kFVErhsMa/6mk/Y=
+
+Name: app/src/main/jni/zip/Android.mk
+SHA1-Digest: lHkeW69uhaQw8XWkmiVHX5Jc/2I=
+
+Name: app/src/main/jni/zip/config.h
+SHA1-Digest: c5nSh0PcG9HIzGGqQVKYyT9EOIA=
+
+Name: app/src/main/jni/zip/lua_zip.c
+SHA1-Digest: Cz/MXyviB5+CijWV5n+G54Ab/Bs=
+
+Name: app/src/main/jni/zip/mkstemp.c
+SHA1-Digest: xFOwrgCCocn63WzjhV9SxwKaJ78=
+
+Name: app/src/main/jni/zip/zip.h
+SHA1-Digest: r7yf/fj9jJEpu5/rBzRxprXsklA=
+
+Name: app/src/main/jni/zip/zip_add.c
+SHA1-Digest: tV15+v3xlvq3lyS1TkazHtHH0gQ=
+
+Name: app/src/main/jni/zip/zip_add_dir.c
+SHA1-Digest: vpGE7Wj1616El4lB4YRbMbxGJBo=
+
+Name: app/src/main/jni/zip/zip_add_entry.c
+SHA1-Digest: 5lCPnIq21qak35BftSZdr9XHx1w=
+
+Name: app/src/main/jni/zip/zip_buffer.c
+SHA1-Digest: 6IUzCX3KT2A43/SQHzd80bpK/RQ=
+
+Name: app/src/main/jni/zip/zip_close.c
+SHA1-Digest: oaBD0MrwAYi+yXKDnbs5sup3B6U=
+
+Name: app/src/main/jni/zip/zip_delete.c
+SHA1-Digest: fIHEc5WGir1Fe7ACsfHdqh4DYeg=
+
+Name: app/src/main/jni/zip/zip_dir_add.c
+SHA1-Digest: EtIFRyope0zIJxlZA+it7srESWM=
+
+Name: app/src/main/jni/zip/zip_dirent.c
+SHA1-Digest: xFt7yfSejVxnUaLovZDFHMwy6Rs=
+
+Name: app/src/main/jni/zip/zip_discard.c
+SHA1-Digest: rxh24fWQII8h/Zl2U1HIDTF0BHs=
+
+Name: app/src/main/jni/zip/zip_entry.c
+SHA1-Digest: UuCPP+QUmvJZYfkTb1vqUcBRdOU=
+
+Name: app/src/main/jni/zip/zip_entry_free.c
+SHA1-Digest: h4h/I3bqTg6bFtjVcGCLOCA9lq8=
+
+Name: app/src/main/jni/zip/zip_entry_new.c
+SHA1-Digest: 7Bz5KMb4C6kl9tCf3yFAkV0AThY=
+
+Name: app/src/main/jni/zip/zip_err_str.c
+SHA1-Digest: I2UHUkBNdjH57Z1LqzflfCM2IUI=
+
+Name: app/src/main/jni/zip/zip_error.c
+SHA1-Digest: NIquunDEdlMafGFskaWgUAAZ4OE=
+
+Name: app/src/main/jni/zip/zip_error_clear.c
+SHA1-Digest: Si/kCqPevBoPfZqdPlwHaeOxxvY=
+
+Name: app/src/main/jni/zip/zip_error_get.c
+SHA1-Digest: s6JzEX9tdKBg7VJKzvlmUtFCDts=
+
+Name: app/src/main/jni/zip/zip_error_get_sys_type.c
+SHA1-Digest: 1KQQJKRGciS422/1kWLuRYsSKzU=
+
+Name: app/src/main/jni/zip/zip_error_strerror.c
+SHA1-Digest: iI+rh2NaIJUvbnmYHsniOZYTpBU=
+
+Name: app/src/main/jni/zip/zip_error_to_str.c
+SHA1-Digest: 75fcCOvr9gIa4T4lc15Q9ZMznWU=
+
+Name: app/src/main/jni/zip/zip_extra_field.c
+SHA1-Digest: 6HcUtqigAkJFCBRxHuePEY0rXps=
+
+Name: app/src/main/jni/zip/zip_extra_field_api.c
+SHA1-Digest: yvMDQUmRUEWjn5nQA7FOcKYx12I=
+
+Name: app/src/main/jni/zip/zip_fclose.c
+SHA1-Digest: 54FnBekwWE6tGJw2Bm2YFB5qhUU=
+
+Name: app/src/main/jni/zip/zip_fdopen.c
+SHA1-Digest: s9m5ilMKLdz0ZG2Fh9RCvk5gSKU=
+
+Name: app/src/main/jni/zip/zip_file_add.c
+SHA1-Digest: ux58Q72JrStRPiQFIlgcqcN0BPU=
+
+Name: app/src/main/jni/zip/zip_file_error_clear.c
+SHA1-Digest: E8aRQ2OR4EXmudkNYH4cvjW1gJ4=
+
+Name: app/src/main/jni/zip/zip_file_error_get.c
+SHA1-Digest: 0xM6P1gX14N0oDPbxdKo+wYR92w=
+
+Name: app/src/main/jni/zip/zip_file_get_comment.c
+SHA1-Digest: /2zyn1ymoRrZf9g0xS2vkr1uuAg=
+
+Name: app/src/main/jni/zip/zip_file_get_external_attributes.c
+SHA1-Digest: dJo197xwaCgQ0GRNsQe7wMh5QKs=
+
+Name: app/src/main/jni/zip/zip_file_get_offset.c
+SHA1-Digest: Me+ji3y9xK3UQlR62Jb6Y4YabGY=
+
+Name: app/src/main/jni/zip/zip_file_rename.c
+SHA1-Digest: 4QABhUVlk0s4ZMDX/0KMWmjZ5tU=
+
+Name: app/src/main/jni/zip/zip_file_replace.c
+SHA1-Digest: rV4wE2zhwnvsnqY3B1RX6QCqUIQ=
+
+Name: app/src/main/jni/zip/zip_file_set_comment.c
+SHA1-Digest: 0F+e+BfBvvtOaeRizXXXScT5nnc=
+
+Name: app/src/main/jni/zip/zip_file_set_external_attributes.c
+SHA1-Digest: RBLpU5X5lUALNF7rGQrdkBoTv3c=
+
+Name: app/src/main/jni/zip/zip_file_set_mtime.c
+SHA1-Digest: xlC1X9bcLCnZPRpfV1rz6ROAiXk=
+
+Name: app/src/main/jni/zip/zip_file_strerror.c
+SHA1-Digest: E9JjtlT5W92C6iApjZl18P7K7Yw=
+
+Name: app/src/main/jni/zip/zip_filerange_crc.c
+SHA1-Digest: 8p3cIZRv9EvrOaj1OsNhMDJVIQo=
+
+Name: app/src/main/jni/zip/zip_fopen.c
+SHA1-Digest: /TG0fGtaiX8NL4Cy7F9MsIcv5vg=
+
+Name: app/src/main/jni/zip/zip_fopen_encrypted.c
+SHA1-Digest: zfH+W59AHKutgrGYpKGPCGjGDnA=
+
+Name: app/src/main/jni/zip/zip_fopen_index.c
+SHA1-Digest: RigO+5lAn0oqZrXi4Vc9QtspjU0=
+
+Name: app/src/main/jni/zip/zip_fopen_index_encrypted.c
+SHA1-Digest: geQiRlDdxaqILlpZk/CZP1eN0VE=
+
+Name: app/src/main/jni/zip/zip_fread.c
+SHA1-Digest: rNJ6hvrxXMCllUNw/suafOKAnRE=
+
+Name: app/src/main/jni/zip/zip_free.c
+SHA1-Digest: banXOPLSC25kbfrgqglIurKYzFc=
+
+Name: app/src/main/jni/zip/zip_get_archive_comment.c
+SHA1-Digest: O0DoIEzCI2U5p3LQZvowyo78Hl8=
+
+Name: app/src/main/jni/zip/zip_get_archive_flag.c
+SHA1-Digest: ZgSMPCH4Ymvqx4nzbV+Bpg3F9dg=
+
+Name: app/src/main/jni/zip/zip_get_compression_implementation.c
+SHA1-Digest: KGQyTLrzR1oJAXsukwaIMkIkc7k=
+
+Name: app/src/main/jni/zip/zip_get_encryption_implementation.c
+SHA1-Digest: A9te5Mm/vA9k1bRh/oGNcYpc6mU=
+
+Name: app/src/main/jni/zip/zip_get_file_comment.c
+SHA1-Digest: rxf9ojY8dGbUuMIkvBF2VlkG0/U=
+
+Name: app/src/main/jni/zip/zip_get_name.c
+SHA1-Digest: 6pDPNSDYJbph6AaiC01XQPxOL6c=
+
+Name: app/src/main/jni/zip/zip_get_num_entries.c
+SHA1-Digest: r4wrNw0aTFUhSzIeE4MGMCEZNk0=
+
+Name: app/src/main/jni/zip/zip_get_num_files.c
+SHA1-Digest: N2ba92AMPmo52u8M1wYPsV5SrtE=
+
+Name: app/src/main/jni/zip/zip_io_util.c
+SHA1-Digest: uyOVjw8SXFQFMHB9mgJL3Yc4Xe8=
+
+Name: app/src/main/jni/zip/zip_memdup.c
+SHA1-Digest: ct2EV+HGyDA6tzucalYCCprkwGI=
+
+Name: app/src/main/jni/zip/zip_name_locate.c
+SHA1-Digest: obcArzkUOYs+FDr2F+TWqA7Mk1s=
+
+Name: app/src/main/jni/zip/zip_new.c
+SHA1-Digest: MlznudDeeqrulJDuz0V4Fqo53fw=
+
+Name: app/src/main/jni/zip/zip_open.c
+SHA1-Digest: zH12bXVtPVqMLsqRGpIKkVzGprY=
+
+Name: app/src/main/jni/zip/zip_rename.c
+SHA1-Digest: AistQgPRLd0zid+qwwzIaA+ldn4=
+
+Name: app/src/main/jni/zip/zip_replace.c
+SHA1-Digest: e4CWez9JH9982nkc/pPjBOLCSG8=
+
+Name: app/src/main/jni/zip/zip_set_archive_comment.c
+SHA1-Digest: zJQPg0Z3IYpkFwXo8nQ2qu/f9f8=
+
+Name: app/src/main/jni/zip/zip_set_archive_flag.c
+SHA1-Digest: lCWSepkd6csy4yi5H2RXNgjeBRU=
+
+Name: app/src/main/jni/zip/zip_set_default_password.c
+SHA1-Digest: pA32VQAHReTm7mRf38Gn4+Pltug=
+
+Name: app/src/main/jni/zip/zip_set_file_comment.c
+SHA1-Digest: lvcbuNZeIFDWMCdFTx8lTnZBZEQ=
+
+Name: app/src/main/jni/zip/zip_set_file_compression.c
+SHA1-Digest: yCFUCMQL7tmSmd03/eEdlkUObX4=
+
+Name: app/src/main/jni/zip/zip_set_name.c
+SHA1-Digest: +uISAHQc07lQowWKPct3A4RUC/k=
+
+Name: app/src/main/jni/zip/zip_source_begin_write.c
+SHA1-Digest: tAD+8gi0LdzvXTNsoAD6lBlcJDw=
+
+Name: app/src/main/jni/zip/zip_source_buffer.c
+SHA1-Digest: Z1+HyRTNyDCToAJs6UOidq+aHoA=
+
+Name: app/src/main/jni/zip/zip_source_call.c
+SHA1-Digest: LkMxfv7SyJxsD/7r0bh7FmavGEY=
+
+Name: app/src/main/jni/zip/zip_source_close.c
+SHA1-Digest: po78z8+4/HjraayvlyFknL1yHuY=
+
+Name: app/src/main/jni/zip/zip_source_commit_write.c
+SHA1-Digest: pp7Ego8vqQCcpllANOQ/5/WmCps=
+
+Name: app/src/main/jni/zip/zip_source_crc.c
+SHA1-Digest: vZt8nhFIFm/mtcqmijki+PoK5Ws=
+
+Name: app/src/main/jni/zip/zip_source_deflate.c
+SHA1-Digest: XeZ9Fo3e424Wi4AjwfSCPN5iZ38=
+
+Name: app/src/main/jni/zip/zip_source_error.c
+SHA1-Digest: 9x5o0LDcvVhHC7opEwY+kjhgYqs=
+
+Name: app/src/main/jni/zip/zip_source_file.c
+SHA1-Digest: N0CGsbOZz311RAX1OWGp5oUsRrg=
+
+Name: app/src/main/jni/zip/zip_source_filep.c
+SHA1-Digest: IOgjYLPJDPMUYs95atz2NXahyoU=
+
+Name: app/src/main/jni/zip/zip_source_free.c
+SHA1-Digest: QGmSf+IS/60cG+8Jblbn4FpLj4U=
+
+Name: app/src/main/jni/zip/zip_source_function.c
+SHA1-Digest: fcCnmeLvnvFriC2kKydohxa+bDQ=
+
+Name: app/src/main/jni/zip/zip_source_is_deleted.c
+SHA1-Digest: lEckrA0XdVVSleu55ydB22/u5gk=
+
+Name: app/src/main/jni/zip/zip_source_layered.c
+SHA1-Digest: zCECBne9VOtYsQ8zD+38D2ga1e8=
+
+Name: app/src/main/jni/zip/zip_source_open.c
+SHA1-Digest: qhrBSSm9A85Rr41SbPXJyKr3hgA=
+
+Name: app/src/main/jni/zip/zip_source_pkware.c
+SHA1-Digest: a51tIvJ65ZqDO5QTqr1r8XLKXbE=
+
+Name: app/src/main/jni/zip/zip_source_read.c
+SHA1-Digest: T40zeDTc+9voVmvgr+Gt9XdGS7A=
+
+Name: app/src/main/jni/zip/zip_source_remove.c
+SHA1-Digest: XGKmmeiK+0LMukeoGO6fDNxDXM8=
+
+Name: app/src/main/jni/zip/zip_source_rollback_write.c
+SHA1-Digest: jpra2hmKFzacbnp9hYUM0lqvBr8=
+
+Name: app/src/main/jni/zip/zip_source_seek.c
+SHA1-Digest: HMVGb51vxL0mfjYg6FJn76K6QkE=
+
+Name: app/src/main/jni/zip/zip_source_seek_write.c
+SHA1-Digest: uI6ABT5NlKRkqxQnRix7slYsDF0=
+
+Name: app/src/main/jni/zip/zip_source_stat.c
+SHA1-Digest: DgoeZqLHw0rBONnu5DJKkDWU6yA=
+
+Name: app/src/main/jni/zip/zip_source_supports.c
+SHA1-Digest: 3JcWHdGCdxKDx/AXv4IvjkoWJM0=
+
+Name: app/src/main/jni/zip/zip_source_tell.c
+SHA1-Digest: PpT13cqnS4UMHWMa1XTbvYdsICM=
+
+Name: app/src/main/jni/zip/zip_source_tell_write.c
+SHA1-Digest: Eh7wpU5sIhwLjjwD8Jrzop+ADQw=
+
+Name: app/src/main/jni/zip/zip_source_window.c
+SHA1-Digest: 7qYnp9wzundlAVSdNqTMT9DZX1s=
+
+Name: app/src/main/jni/zip/zip_source_write.c
+SHA1-Digest: Pk754AszM9joQCKgt0ih0iprwcw=
+
+Name: app/src/main/jni/zip/zip_source_zip.c
+SHA1-Digest: KklfENLA2v69ad76xGJGUnXX184=
+
+Name: app/src/main/jni/zip/zip_source_zip_new.c
+SHA1-Digest: ZGgSsGPJa59g05PZdi2N5GRG0Dg=
+
+Name: app/src/main/jni/zip/zip_stat.c
+SHA1-Digest: E/SDPM1HWuTPo0UmSFM4F/SqTcI=
+
+Name: app/src/main/jni/zip/zip_stat_index.c
+SHA1-Digest: O7zwVJoTtaGx+QFr2kBrtVJxnfg=
+
+Name: app/src/main/jni/zip/zip_stat_init.c
+SHA1-Digest: Rj2x8x6/ZCMcvLX9g5AJ9TM3iaQ=
+
+Name: app/src/main/jni/zip/zip_strerror.c
+SHA1-Digest: Zp2XWguGKA0u1X1EBKGEiofRkmo=
+
+Name: app/src/main/jni/zip/zip_string.c
+SHA1-Digest: 9h5eg/4gtgmKAfoENjgHgsWzbOQ=
+
+Name: app/src/main/jni/zip/zip_unchange.c
+SHA1-Digest: kuKMEmxG1eJerRJidJr0iJjoZTw=
+
+Name: app/src/main/jni/zip/zip_unchange_all.c
+SHA1-Digest: p9fz967GALl3jyxi5QZTgH0xBrk=
+
+Name: app/src/main/jni/zip/zip_unchange_archive.c
+SHA1-Digest: HxJe38qObozC1vr+aSw5UjrRgj0=
+
+Name: app/src/main/jni/zip/zip_unchange_data.c
+SHA1-Digest: ZgwWk8drGCxHeKiOMzLJ5Zj1DXs=
+
+Name: app/src/main/jni/zip/zip_utf-8.c
+SHA1-Digest: BknJy4JM3Ni/u9SAn810XCn2q6U=
+
+Name: app/src/main/jni/zip/zipconf.h
+SHA1-Digest: Y92+mlmVDpN3ohJ+hwSgVsnkVbA=
+
+Name: app/src/main/jni/zip/zipint.h
+SHA1-Digest: Vr7m4iewXIgHZoCOwSn+m97YtGY=
+
+Name: app/src/main/jni/zlib/Android.mk
+SHA1-Digest: R+XWpLso/qnYMaPGIsuEwDxtklE=
+
+Name: app/src/main/jni/zlib/lua_zlib.c
+SHA1-Digest: hkcanKDCrzPFwFzwcDNmDyE5rls=
+
+Name: app/src/main/jni/zlib/lua_zlib.h
+SHA1-Digest: MjcxXLuXm+UPEexg2HpiBjEaVHQ=
+
+Name: app/src/main/res/drawable/icon.png
+SHA1-Digest: v4WLhKu7HZ4F0MdBhNPdIfxX7Yw=
+
+Name: app/src/main/res/drawable/welcome.png
+SHA1-Digest: BMW+FDa/JeI1pYiXSG+VQ6mh5AQ=
+
+Name: app/src/main/res/values/strings.xml
+SHA1-Digest: XkY/iNCeyPqWko9XgSR1EPSSFFE=
+
+Name: app/src/main/res/values/styles.xml
+SHA1-Digest: V/Bft81FG+9sLuvAbKHyr1GmLhI=
+
+Name: app/src/main/res/xml/accessibility_service_config.xml
+SHA1-Digest: 5oxtUtQlc2BiroWJPKeoJ2cYVy8=
+
+Name: app/src/main/res/xml/androlua_filepaths.xml
+SHA1-Digest: TVmwrpv/QqdJGZFNTPmgJ4U/K88=
+
+Name: app/src/main/resources/lua/autotheme.lua
+SHA1-Digest: ElQ5e5UsBYN4lsadHlItHR+YdA4=
+
+Name: app/src/main/resources/lua/base64.lua
+SHA1-Digest: B4qjz7TQC/Xudhugf1gvimnWQ2s=
+
+Name: app/src/main/resources/lua/bin.lua
+SHA1-Digest: SuJ2O06cZesnIZOAL6GLumsR0xo=
+
+Name: app/src/main/resources/lua/bmob.lua
+SHA1-Digest: QuAJQXA5P2+BMEpQZtOGPS2vBHs=
+
+Name: app/src/main/resources/lua/check.lua
+SHA1-Digest: dyGmY2ffXYhmCq4L6z3JCgGbGrg=
+
+Name: app/src/main/resources/lua/console.lua
+SHA1-Digest: mj3j21T8RQsg8cVcQ2qlajq0RMs=
+
+Name: app/src/main/resources/lua/ftp.lua
+SHA1-Digest: iCIkLnJYQhTSdt9UUV5N7UorJ0M=
+
+Name: app/src/main/resources/lua/hex.lua
+SHA1-Digest: RuM55QwOT3m50VCz2NCsvHEPO1Q=
+
+Name: app/src/main/resources/lua/http.lua
+SHA1-Digest: j5iJ2y7yIgJL/x7zyfep/kdz8OE=
+
+Name: app/src/main/resources/lua/import.lua
+SHA1-Digest: kHX0rjZpFSmzrHx7MrJJ3f7HEaA=
+
+Name: app/src/main/resources/lua/json.lua
+SHA1-Digest: 61LF90uaRKb43Rtx3wiR/hE4qVU=
+
+Name: app/src/main/resources/lua/loadbitmap.lua
+SHA1-Digest: MsnFWZnBId0vkGvPOBVCOaxrxw4=
+
+Name: app/src/main/resources/lua/loadlayout.lua
+SHA1-Digest: VGLnYOgG/7mREqvjzrrxyGQCGJ0=
+
+Name: app/src/main/resources/lua/loadmenu.lua
+SHA1-Digest: qpqg36/EbVLZEkBpsyhXFJuSeQY=
+
+Name: app/src/main/resources/lua/logcat.lua
+SHA1-Digest: R+trLygHCFoLuPEm9D9JijYauPw=
+
+Name: app/src/main/resources/lua/ltn12.lua
+SHA1-Digest: 1edAJKjmGXM27T7FjFozk094k8g=
+
+Name: app/src/main/resources/lua/mbox.lua
+SHA1-Digest: T/3lRENGpmaWKLwyogrFFrLN2dQ=
+
+Name: app/src/main/resources/lua/mime.lua
+SHA1-Digest: ep+xHpGUYH+brpjvrEUUIQo/ZZM=
+
+Name: app/src/main/resources/lua/options.lua
+SHA1-Digest: juNbWySTZluhQCvwmwpgkpYTZVQ=
+
+Name: app/src/main/resources/lua/permission.lua
+SHA1-Digest: SoHyvgaqqdIUndFcJJ77zd4TZDk=
+
+Name: app/src/main/resources/lua/smtp.lua
+SHA1-Digest: C/pq2pOvXatvrnH5QehuaotPKBQ=
+
+Name: app/src/main/resources/lua/socket.lua
+SHA1-Digest: vLeLPLwZ4aj1PRNkH4Vtjgrgr2o=
+
+Name: app/src/main/resources/lua/socket/headers.lua
+SHA1-Digest: d8O1DLWnMDJpIOU5uF7/gkozzBo=
+
+Name: app/src/main/resources/lua/socket/tp.lua
+SHA1-Digest: KHL2qIDHNrmUUYUvjkRijfT7Gp4=
+
+Name: app/src/main/resources/lua/socket/url.lua
+SHA1-Digest: UMMNmHas7viahxIh0DFptL7WyHY=
+
+Name: app/src/main/resources/lua/su.lua
+SHA1-Digest: WywqkIVW/EukDLtf5rCCnDhjtpo=
+
+Name: app/src/main/resources/lua/test.lua
+SHA1-Digest: wpPZWIrDJTqK2CcKDTwBArnKQZo=
+
+Name: app/src/main/resources/lua/xml.lua
+SHA1-Digest: evQEsvUyYrf/X/F+qlSO/4aXxGU=
+
+Name: build.gradle
+SHA1-Digest: spisF+5+UkkVVJTis5oOGILc/q8=
+
+Name: gradlew
+SHA1-Digest: ZAnWJW32svniFCGDtMZAiCOhD2o=
+
+Name: gradlew.bat
+SHA1-Digest: h1HXgxymzRytSOFHWnlZa1S0iZQ=
+
+Name: lua-license.txt
+SHA1-Digest: UhRM+HRhiUn3hX61rblkvzzXk48=
+
+Name: luajava-license.txt
+SHA1-Digest: rwrkkIl4XhkqTxQNSJeQ231DXzI=
+
+Name: settings.gradle
+SHA1-Digest: HU/190SRUHWAvCKBVRElVR4o6N4=
+

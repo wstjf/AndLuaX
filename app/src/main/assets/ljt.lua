@@ -1,0 +1,13 @@
+code={
+  LinearLayout;
+  gravity="center";
+  layout_height="fill";
+  layout_width="fill";
+  backgroundColor=颜色1,
+  {
+    TextView;
+    textColor=颜色4;
+    textSize="16sp";
+    text="作者暂时还没有找到可以白嫖的文件网址哦";
+  };
+};
