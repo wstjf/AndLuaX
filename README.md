@@ -1,5 +1,6 @@
 ﻿# AndLuaX+
-基于AndroLua+开发
+AndLuaX+是基于开源框架AndroLua+开发的第三方编辑器，内置LuaFileSysteam
+基于AndroLua+4.2.0版本
 # AndroLua-
 lua 5.3.3 for android pro
 
